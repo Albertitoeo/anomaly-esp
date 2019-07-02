@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="voronin_operation_afterglow_0">
+		<text>I've received the message about the mysterious radio transmissions. Have you got a task for me?</text>
+	</string>
+	<string id="voronin_operation_afterglow_1">
+		<text>Yes, there is no shortage of work to do in our line of duty. Our forward reconnaissance team detected unidentified radio transmissions in the area of the Iron Forest anomaly in Zaton. They have not got the necessary equipment to decrypt them, however, so I want you to investigate.</text>
+	</string>
+	<string id="voronin_operation_afterglow_2">
+		<text>Understood.</text>
+	</string>
+	<string id="voronin_operation_afterglow_21">
+		<text>I apologise commander, I'm not ready right now.</text>
+	</string>
+	<string id="voronin_operation_afterglow_3">
+		<text>Excellent. Take this radio; our technicians have modified it appropriately. Report on your findings as soon as possible. Who knows what is going on so close to the CNPP.</text>
+	</string>
+	
+	<string id="voronin_operation_afterglow_transmission_report_0">
+		<text>I'm back from Zaton.</text>
+	</string>
+	<string id="voronin_operation_afterglow_transmission_report_1">
+		<text>Did you hear anything interesting?</text>
+	</string>
+	<string id="voronin_operation_afterglow_transmission_report_2">
+		<text>Yes, General. I was briefly involved in a military operation led by Colonel Degtyarev. Ukraine's internal troops are attacking foreign agents from a group called UNISG. Seems the local army doesn't want the Zone's secrets to be dug up by internationals.</text>
+	</string>
+	<string id="voronin_operation_afterglow_transmission_report_21">
+		<text>Nothing in particular, commander. Just meaningless noise.</text>
+	</string>
+	<string id="voronin_operation_afterglow_transmission_report_3">
+		<text>I see. This is a very intriguing discovery indeed. We will observe the region more closely for further developments. Meanwhile, you are free to resume your usual activities. Dismissed.</text>
+	</string>
+	<string id="voronin_operation_afterglow_transmission_report_31">
+		<text>Thank you for confirming. Well, there is nothing more I require of you right now, so you are free to resume your usual activities. Dismissed.</text>
+	</string>
+	<string id="voronin_operation_afterglow_transmission_report_4">
+		<text>Understood.</text>
+	</string>
+	
+	<string id="dushman_operation_afterglow_0">
+		<text>I've received the message about the mysterious radio transmissions. Have you got a task for me?</text>
+	</string>
+	<string id="dushman_operation_afterglow_1">
+		<text>Yes, of course. Work is what we do. Our team in Zaton intercepted intermittent radio transmissions from around the Iron Forest in Zaton. Thing is, all they heard was jumbled noise. I want you to go there and check what's going on with proper equipment.</text>
+	</string>
+	<string id="dushman_operation_afterglow_2">
+		<text>Sure thing.</text>
+	</string>
+	<string id="dushman_operation_afterglow_21">
+		<text>Sorry Dushman, I've got another contract to complete right now.</text>
+	</string>
+	<string id="dushman_operation_afterglow_3">
+		<text>Very well, info is worth money, too. Take this radio, Hog outfitted it with an advanced decryption device. Come back when you find out anything.</text>
+	</string>
+	
+	<string id="dushman_operation_afterglow_transmission_report_0">
+		<text>I'm back from Zaton.</text>
+	</string>
+	<string id="dushman_operation_afterglow_transmission_report_1">
+		<text>Heard anything interesting?</text>
+	</string>
+	<string id="dushman_operation_afterglow_transmission_report_2">
+		<text>Yes, actually. One Colonel Degtyarev hired me to help in a black ops mission. He's involved in eliminating foreign agents from a group called UNISG before they recover any incriminating documents from the Zone.</text>
+	</string>
+	<string id="dushman_operation_afterglow_transmission_report_21">
+		<text>No, not really. Just some static, nothing special.</text>
+	</string>
+	<string id="dushman_operation_afterglow_transmission_report_3">
+		<text>UNISG? Ugh. I've heard of them. It seems no matter where we go there's always some group of government-owned assholes infringing on our work. Still, thanks for informing me of their movements. I'll follow up on this while you complete your other contracts.</text>
+	</string>
+	<string id="dushman_operation_afterglow_transmission_report_31">
+		<text>Sometimes jumbled noise really is just jumbled noise, isn't it?. Ah well, I'm sure you have more interesting contracts to get back to now.</text>
+	</string>
+	<string id="dushman_operation_afterglow_transmission_report_4">
+		<text>See you.</text>
+	</string>
+	
+	<string id="sidorovich_operation_afterglow_0">
+		<text>I've received the message about the mysterious radio transmissions. Have you got a task for me?</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_1">
+		<text>Always eager to earn more money, eh, stalker? There's a thing that's popped up recently. I found out through Beard that stalkers have been talking about some weird radio noise they pick up in the Iron Forest in Zaton. Might be the anomalies doing their thing, might be something interesting. Go check it out, will ya?</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_2">
+		<text>Sure thing Sid. Just sit tight as I casually walk across the entire Zone for the nth time.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_21">
+		<text>Sorry Sid, I'm not ready right now.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_3">
+		<text>That's my boy. Take this here radio with you, unless you want to pick up the transmissions with a metal inlay in your teeth or something. Come back if you discover anything worthwhile.</text>
+	</string>
+	
+	<string id="sidorovich_operation_afterglow_transmission_report_0">
+		<text>I'm back from Zaton.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_transmission_report_1">
+		<text>Heard anything interesting, stalker?</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_transmission_report_2">
+		<text>Yes, very interesting. See, a man called Colonel Degtyarev has been carrying out top secret operations in the centre of the Zone. He fights a group called UNISG, a foreign task force who're trying to uncover the Zone's dirty laundry.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_transmission_report_21">
+		<text>Not really. I sure made a long trip to listen to some static, though.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_transmission_report_3">
+		<text>That's great news, stalker. As you already know information is worth a lot of money, especially if it's top secret. I'll see what I can do with this, hehe. Anyway, you can go do your thing.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_transmission_report_31">
+		<text>Ah shit, I kind of hoped this would lead into another bullshit-crazy stalker story. Anyway, you can go do your thing.</text>
+	</string>
+	<string id="sidorovich_operation_afterglow_transmission_report_4">
+		<text>See ya.</text>
+	</string>
+	
+	<string id="cold_operation_afterglow_0">
+		<text>I've received the message about the mysterious radio transmissions. Have you got a task for me?</text>
+	</string>
+	<string id="cold_operation_afterglow_1">
+		<text>Yes, there's a little something you could research. I heard through our Ecologist contacts that there've been some rather mysterious radio transmissions occurring in the Iron Forest in Zaton. I know, I know, it's just like the Swamp but on the other side of the Zone. Still, I think it's worth looking into considering that the CNPP is so close to that place.</text>
+	</string>
+	<string id="cold_operation_afterglow_2">
+		<text>Sounds interesting, count me in.</text>
+	</string>
+	<string id="cold_operation_afterglow_21">
+		<text>Sorry Cold, I can't make yet another trip like that just yet. Not so soon.</text>
+	</string>
+	<string id="cold_operation_afterglow_3">
+		<text>Another adventure for you, hehe. By the way, take this little thingy from Novikov, it'll decrypt any radio transmission you might intercept over there. Good hunting.</text>
+	</string>
+	
+	<string id="cold_operation_afterglow_transmission_report_0">
+		<text>I'm back from Zaton.</text>
+	</string>
+	<string id="cold_operation_afterglow_transmission_report_1">
+		<text>Heard anything interesting?</text>
+	</string>
+	<string id="cold_operation_afterglow_transmission_report_2">
+		<text>Sure. I overheard a military transmission and joined a guy called Colonel Degtyarev in a black ops mission. They wanted to get rid of a team sent by a foreign group named UNISG, who've been investigating the Zone a bit too thoroughly for the SSU's liking.</text>
+	</string>
+	<string id="cold_operation_afterglow_transmission_report_21">
+		<text>Not really. Just some anomalous static, not much else.</text>
+	</string>
+	<string id="cold_operation_afterglow_transmission_report_3">
+		<text>Look what we've got there. Quite interesting indeed. Well, I hope you liked playing a secret agent for a while. You didn't get a bullet in the back of the head as a reward, so that's nice. Take a moment to unwind now, I'll see what I can do with this piece of info.</text>
+	</string>
+	<string id="cold_operation_afterglow_transmission_report_31">
+		<text>Ah well, I doubt even Kalancha would be interested in that. Thanks for trying, I suppose. You can go now.</text>
+	</string>
+	<string id="cold_operation_afterglow_transmission_report_4">
+		<text>See you, Cold.</text>
+	</string>
+	
+	<string id="lukash_operation_afterglow_0">
+		<text>I've received the message about the mysterious radio transmissions. Have you got a task for me?</text>
+	</string>
+	<string id="lukash_operation_afterglow_1">
+		<text>You just can't sit in one place for too long, eh? I like that adventurous spark in you, mate. So, Loki told me there's been a whole lotta new noise near the Iron Forest in Zaton. Might be the anomalies making noise, might be top secret radio comms between Spetsnaz units or something. Go check 'em out.</text>
+	</string>
+	<string id="lukash_operation_afterglow_2">
+		<text>Alrighty, count me in.</text>
+	</string>
+	<string id="lukash_operation_afterglow_21">
+		<text>Sorry Lukash, I need to recover from my hangover first.</text>
+	</string>
+	<string id="lukash_operation_afterglow_3">
+		<text>That's the spirit. Ah, right, take this radio. You haven't got a metal plate in your head, I bet, so this should come in handy. Lemme know if you find anything interesting.</text>
+	</string>
+	
+	<string id="lukash_operation_afterglow_transmission_report_0">
+		<text>I'm back from Zaton.</text>
+	</string>
+	<string id="lukash_operation_afterglow_transmission_report_1">
+		<text>Heard anything interesting over there?</text>
+	</string>
+	<string id="lukash_operation_afterglow_transmission_report_2">
+		<text>Oh man, you wouldn't believe! That military stalker, Degtyarev, asked me to help him out against some guys called UNISG. They're some multi-state task force who've been investigating the Zone for the United Nations. The local army doesn't like that, of course.</text>
+	</string>
+	<string id="lukash_operation_afterglow_transmission_report_21">
+		<text>Nah, not really. Listened to static from anomalies, got bored and came back here.</text>
+	</string>
+	<string id="lukash_operation_afterglow_transmission_report_3">
+		<text>Hah, two government-backed forces duking it out with each other over who owns the Zone's secrets? That's hilarious! Good to hear Degtyarev is still kicking. The army are all bastards, no mistake, but that guy is one glorious bastard. If you see him around, tell him to take a break and give Yanov another hand, alright? I hear it gets rougher up there every day.</text>
+	</string>
+	<string id="lukash_operation_afterglow_transmission_report_31">
+		<text>Well, listening to the song of the Zone might be fun too, eh? No? Okay, nevermind. Go do something more interesting, I don't want you to get bored to death. Now that would be a way to croak in the Zone...</text>
+	</string>
+	<string id="lukash_operation_afterglow_transmission_report_4">
+		<text>See ya, man.</text>
+	</string>
+	
+	<string id="sakharov_operation_afterglow_0">
+		<text>I've received the message about the mysterious radio transmissions. Have you got a task for me?</text>
+	</string>
+	<string id="sakharov_operation_afterglow_1">
+		<text>Oh, yes, young man. Do you know Professor Hermann? His bunker up north reported some intriguing radio transmissions occurring in the Iron Forest in Zaton. This is especially interesting considering the prominent anomalous activity in that area. I would like you to conduct research at that location, there's no telling what we might discover.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_2">
+		<text>I'll go at once, Professor.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_21">
+		<text>I apologise Professor, I'm not ready right now.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_3">
+		<text>Thank you. Here, take this device with you. It will attempt to decrypt and record anything you might intercept. I wish you good luck.</text>
+	</string>
+	
+	<string id="sakharov_operation_afterglow_transmission_report_0">
+		<text>I'm back from Zaton.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_transmission_report_1">
+		<text>Did you discover anything interesting, young man?</text>
+	</string>
+	<string id="sakharov_operation_afterglow_transmission_report_2">
+		<text>Yes, Professor. I overheard a military radio transmission and was temporarily drafted into a top secret mission by Colonel Degtyarev. We fought a task force sent by UNISG, foreign special agents who have been investigating the Zone's deepest secrets.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_transmission_report_21">
+		<text>Not really, Professor. Just some static from the local anomalies.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_transmission_report_3">
+		<text>Oh, I see. While researching the Zone itself and its many marvellous phenomena is worthwhile indeed, I could only shudder at the consequences of information pertaining to its creation falling into the wrong hands. Thank you, young man, you can go now.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_transmission_report_31">
+		<text>What a bother. It seems I'll have to reject Hermann's hypothesis.</text>
+	</string>
+	<string id="sakharov_operation_afterglow_transmission_report_4">
+		<text>Good bye, Professor.</text>
+	</string>
+	
+	<string id="stalker_rogue_dialog_oa_psycho_0">
+		<text>My... head... pop... pill... pop... pill... my... head... my... head...</text>
+	</string>
+	
+	<string id="stalker_rogue_dialog_oa_0">
+		<text>Hey, tough guy.</text>
+	</string>
+	
+	<string id="stalker_rogue_repair_oa_0">
+		<text>Hey, Rogue. You still handy with your toolkit?</text>
+	</string>
+	
+	<string id="stalker_rogue_dialog_oa_help_psycho_0">
+		<text>What... what are you doing, mate?</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_1">
+		<text>My... head... fucking... psy-anomaly... need... pills... need... a... pill...</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_2">
+		<text>Oh shit. Just hold on here a little longer, I'll find something!</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_20">
+		<text>Snap out of it, man! Fight it off!</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_21">
+		<text>Argh... help... me...</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_22">
+		<text>For fuck's sake, keep it together!</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_23">
+		<text>Stop... yelling... I m-must... mmm... mmm... MONOLITH!</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_help_psycho_24">
+		<text>Fuck!</text>
+	</string>
+	
+	<string id="stalker_rogue_dialog_oa_heal_psycho_0">
+		<text>I've got a pill, swallow it!</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_heal_psycho_1">
+		<text>Th-thank you man, they almost got me.</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_heal_psycho_2">
+		<text>What happened?</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_heal_psycho_3">
+		<text>Urgh... our team got separated fighting some Monolith soldiers. I was slowly retreating, laying down suppressive fire to keep the fanatics at bay... accidentally stepped into a psy-anomaly, all those voices started whispering in my head. The Monolith fucks simply picked me up, dragged me here and left. I think they wanted to convert me. I'd rather jump into an anomaly... other than that one. Fuck.</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_heal_psycho_4">
+		<text>What happened to your psy-helmet?</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_heal_psycho_5">
+		<text>Damn thing always made my teeth itch. With the Scorcher down, I didn't think I'd need it. Shows what I know. Anyways, let's go to the laundromat. We need to regroup.</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_heal_psycho_6">
+		<text>Let's go.</text>
+	</string>
+	
+	<string id="stalker_rogue_dialog_oa_saved_0">
+		<text>Here we are.</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_saved_1">
+		<text>Thank you, tough guy. You saved me from a fate worse than death. I won't forget that.</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_saved_2">
+		<text>You're welcome, Rogue.</text>
+	</string>
+	
+	<string id="pri_a17_strelok_dialogue_0">
+		<text>Hey there, Strelok. Killing off the Monolith as usual, I see?</text>
+	</string>
+	<string id="pri_a17_strelok_dialogue_1">
+		<text>Thanks for the help, I didn't expect you would come. This place isn't safe. Let's go to the laundromat, we need to talk.</text>
+	</string>
+	<string id="pri_a17_strelok_dialogue_2">
+		<text>Let's move.</text>
+	</string>
+	
+	<string id="pri_a16_strelok_dialogue_0">
+		<text>What happened? Where are the others?</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_1">
+		<text>We'd been cutting off Monolith supply lines in order to starve them out but eventually they assembled a squad to deal with us. We were separated during the battle. It's dangerous to send long-range messages in this area, and I'm too fatigued after all this to look for Rogue and Stitch in person. Look around the city, try to find them. Please.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_2">
+		<text>Sure thing, you stay here. I'll bring them back.</text>
+	</string>
+	
+	<string id="pri_a18_rogue_fallen_0">
+		<text>I found Rogue in a book store, praying to a weird statue. He succumbed to a psy-anomaly.</text>
+	</string>
+	<string id="pri_a18_rogue_fallen_1">
+		<text>Of all the shitty luck...his psy-helm must've got dinged in the fighting. He used to boast that nothing in the Zone could kill him. Neither mutants nor the Monolith...only to get his head fried. May he rest in peace.</text>
+	</string>
+	<string id="pri_a18_rogue_fallen_2">
+		<text>Agreed.</text>
+	</string>
+	
+	<string id="pri_a28_stitch_fallen_0">
+		<text>I found Stitch near the Prometheus Movie Theatre, besieged by a horde of zombies. He wasn't able to make it.</text>
+	</string>
+	<string id="pri_a28_stitch_fallen_1">
+		<text>The Zone will be a much darker place without him. May he rest in peace.</text>
+	</string>
+	<string id="pri_a28_stitch_fallen_2">
+		<text>Agreed.</text>
+	</string>
+	
+	<string id="pri_a16_strelok_dialogue_team_0">
+		<text>Pripyat is deadly as usual.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_1">
+		<text>Yes. Fortunately, the whole team pulled through. It's good that I don't have to bury them yet.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_100">
+		<text>Rogue was tough as nails. Stitch and I will struggle without his steadfast support in battle.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_110">
+		<text>Stitch was a great healer. Rogue and I will struggle without his light and gentle nature.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_120">
+		<text>Almost all my friends, lost to the Zone...yet again. What will it take from me next? I don't think there's much left at this point.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_2">
+		<text>No problem, man. I kind of feel like a part of the team myself, glad I could help.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_200">
+		<text>I didn't expect Rogue to die, especially not in an actual battle. Damn it.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_210">
+		<text>Stitch was such a cheerful guy, it feels wrong that he died. Damn it.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_220">
+		<text>The Zone is ruthless, alright. To think they simply died after all they'd been through... a grim reminder of what we're dealing with.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_3">
+		<text>Yet we need to move on. Even after defeating of the C-Consciousness, the crippling blows we dealt to the Monolith and Sin, and deactivation of all the psy-installations... the Zone persists. I wonder whether we're actually capable of destroying its horrors for good at all.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_4">
+		<text>The Zone is just one tenacious bastard, isn't it?</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_5">
+		<text>Perhaps. We'll think what to do next after we get some rest. I realise you're a member of Duty so you can't simply leave, but consider joining us. We'll need all the help we can get in such an ambitious endeavour.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_51">
+		<text>Perhaps. We'll think what to do next after we get some rest. I realise you're a Mercenary and might not be comfortable breaking your contract with Dushman, but consider joining us. We'll need all the help we can get in such an ambitious endeavour.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_52">
+		<text>Perhaps . We'll think what to do next after we get some rest. I realise you're a free stalker so you might prefer independence, but consider joining us. We'll need all the help we can get in such an ambitious endeavour.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_53">
+		<text>Perhaps. We'll think what to do next after we get some rest. I realise you're a member of Clear Sky so you obviously might not want to, but consider joining us. We'll need all the help we can get in such an ambitious endeavour.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_54">
+		<text>Perhaps. We'll think what to do next after we get some rest. I realise you're a member of Freedom so you might disagree with my conviction, but consider joining us. We'll need all the help we can get in such an ambitious endeavour.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_55">
+		<text>Perhaps. We'll think what to do next after we get some rest. I realise you're an Ecologist so you can't simply leave, but consider joining us. We'll need all the help we can get in such an ambitious endeavour.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_500">
+		<text>Perhaps. I'll think what to do next. I realise you're a member of Duty so you can't simply leave, but consider joining me. My team is gone, and I'll need all the help I can get in such an ambitious endeavour.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_501">
+		<text>Perhaps. I'll think what to do next. I realise you're a Mercenary and might not be comfortable breaking your contract with Dushman, but consider joining me. My team is gone, and I'll need all the help I can get in such an ambitious endeavour.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_502">
+		<text>Perhaps. I'll think what to do next. I realise you're a free stalker so you might prefer independence, but consider joining me. My team is gone, and I'll need all the help I can get in such an ambitious endeavour.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_503">
+		<text>Perhaps. I'll think what to do next. I realise you're a member of Clear Sky so you obviously might not want to, but consider joining me. My team is gone, and I'll need all the help I can get in such an ambitious endeavour.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_504">
+		<text>Perhaps. I'll think what to do next. I realise you're a member of Freedom so you might disagree with my conviction, but consider joining me. My team is gone, and I'll need all the help I can get in such an ambitious endeavour.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_505">
+		<text>Perhaps. I'll think what to do next. I realise you're an Ecologist so you can't simply leave, but consider joining me. My team is gone, and I'll need all the help I can get in such an ambitious endeavour.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_6">
+		<text>Alright, Strelok, I'll consider it.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_61">
+		<text>Sorry Strelok, but I can't abandon my other commitments for you. Farewell.</text>
+	</string>
+	<string id="pri_a16_strelok_dialogue_team_7">
+		<text>Okay. See you around.</text>
+	</string>
+	
+	<string id="strelok_finale_dialogue_0">
+		<text>Colonel Degtyarev, the SSU agent standing outside, has orders to either take you back under government custody or...eliminate you.</text>
+	</string>
+	<string id="strelok_finale_dialogue_1">
+		<text>I don't want to die, but I'm not keen on working with the government anymore either. Degtyarev seems alright, but his superiors live in a little world of their own. They care more about looking good than actually making anything better, consequences be damned.</text>
+	</string>
+	<string id="strelok_finale_dialogue_2">
+		<text>I know, Strelok, but hear me out.</text>
+	</string>
+	<string id="strelok_finale_dialogue_3">
+		<text>Yes?</text>
+	</string>
+	<string id="strelok_finale_dialogue_4">
+		<text>I've earned Degtyarev's trust. We might be able to take his men by surprise if we strike hard and fast. I don't really want to do this, but we're not letting them nab you.</text>
+	</string>
+	<string id="strelok_finale_dialogue_400">
+		<text>Given how successful the rest of the operation was, Degtyarev has leeway to compromise. If you agree to go into hiding and keep your knowledge of the Zone to yourself from now on, he'll let you go. I'll stick up for you if he goes back on his word.</text>
+	</string>
+	<string id="strelok_finale_dialogue_401">
+		<text>Given how successful the rest of the operation was, Degtyarev has leeway to compromise. If you agree to go into hiding and keep your knowledge of the Zone to yourself from now on, he'll let you go. I'll stick up for you if he goes back on his word.</text>
+	</string>
+	<string id="strelok_finale_dialogue_402">
+		<text>Given how successful the rest of the operation was, Degtyarev has leeway to compromise. If you agree to go into hiding and keep your knowledge of the Zone to yourself from now on, he'll let you go. I'll stick up for you if he goes back on his word.</text>
+	</string>
+	<string id="strelok_finale_dialogue_5">
+		<text>So be it. This is what it has come to. Let us end this, then.</text>
+	</string>
+	<string id="strelok_finale_dialogue_500">
+		<text>Sounds like what I was going to do anyways. Glad we can do things on my terms now. We can tell him I agree, just stay close.</text>
+	</string>
+	<string id="strelok_finale_dialogue_6">
+		<text>We'll be alright. I'll go first.</text>
+	</string>
+	
+	<string id="strelok_finale_fight_dialogue_0">
+		<text>Well, the Colonel is dead. This should slow the Military's pursuit of you for a while at least.</text>
+	</string>
+	<string id="strelok_finale_fight_dialogue_1">
+		<text>He was a decent man. His craven peers won't have the balls to continue his mission. Thank you for standing up for me.</text>
+	</string>
+	<string id="strelok_finale_fight_dialogue_100">
+		<text>Too bad it had come to this, but at least we could count on you again. Thank you.</text>
+	</string>
+	<string id="strelok_finale_fight_dialogue_2">
+		<text>After everything we've faced off together? It's the least I can do.</text>
+	</string>
+	<string id="strelok_finale_fight_dialogue_3">
+		<text>Yes, we really have been through a lot together, haven't we? I'm glad for the journey, although I'm sad it's drawing to a close. I'll need to go into hiding once again, try find a base that half the Zone doesn't know about. We likely won't see each other for a long, long time. Maybe I'll finally pay Doctor a visit, take him with me. Who knows? Still, goodbye...and see you. </text>
+	</string>
+	<string id="strelok_finale_fight_dialogue_4">
+		<text>Farewell, Strelok.</text>
+	</string>
+	
+	<string id="strelok_finale_negotiator_dialogue_0">
+		<text>Seems that after all that the army guys will let you go scot-free.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_1">
+		<text>This could've gone a lot differently, but I had a feeling Degtyarev would come around. Still, this is a real relief.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_100">
+		<text>Yes, I'm glad. I wish the whole group was alive to see this outcome. Still, this is probably the best we could've hoped for.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_101">
+		<text>Yes, I'm glad. I wish the whole group was alive to see this outcome. Still, this is probably the best we could've hoped for.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_102">
+		<text>It's terrible that Stitch and Rogue died so close to reaching a peaceful resolution. I'll have to find time to bury them alongside Fang and Ghost.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_2">
+		<text>Yeah, the situation was volatile. Glad I could help defuse it. Enough shit has happened in the Zone already.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_202">
+		<text>I'm sure they'll come to be remembered as legends too, Strelok.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_3">
+		<text>We should get going now. We need to find a new hideout,one that half the Zone doesn't already know about. We've been through a lot together, you and I. I'm glad for the journey, although I'm sad it's drawing to a close. Maybe I'll finally pay Doctor a visit. I'm sure he'd like to meet my new team, but after that...well, the Zone only knows. I do not know if I was wrong or right, but we all made it...and I guess I'm thankful for that. Farewell.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_300">
+		<text>Stitch and I should get going now. We need to find a new hideout,one that half the Zone doesn't already know about. We've been through a lot together, you and I. I'm glad for the journey, although I'm sad it's drawing to a close, and that not all of us made it to the end. Maybe I'll finally pay Doctor a visit. I'm sure he'd like to meet Stitch - they have a lot in common - but after that...well, the Zone only knows. I do not know if I was wrong or right, but we made it...and I guess I'm thankful for that. Farewell.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_301">
+		<text>Rogue and I should get going now. We need to find a new hideout,one that half the Zone doesn't already know about. We've been through a lot together, you and I. I'm glad for the journey, although I'm sad it's drawing to a close, and that not all of us made it to the end. Maybe I'll finally pay Doctor a visit. I'm sure he'd like to meet Rogue, but after that...well, the Zone only knows. I do not know if I was wrong or right, but we made it...and I guess I'm thankful for that. Farewell.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_302">
+		<text>I should get going now. I need to find a new hideout,one that half the Zone doesn't already know about. We've been through a lot together, you and I. I'm glad for the journey, although I'm sad it's drawing to a close, and that neither of my new companions made it to the end. Maybe I'll finally pay Doctor a visit. It'll be good to see one of my few surviving friends again, but after that...well, the Zone only knows. I do not know if I was wrong or right, but I made it...and I guess I'm thankful for that. Farewell.</text>
+	</string>
+	<string id="strelok_finale_negotiator_dialogue_4">
+		<text>Hopefully we'll see each other again soon. Until next time, Strelok.</text>
+	</string>
+	
+	<string id="stalker_stitch_dialog_oa_0">
+		<text>That was rough. How the hell did you end up like this?</text>
+	</string>
+	<string id="stalker_stitch_dialog_oa_1">
+		<text>So, we were fighting a large group of Monolith. Things went pretty hectic fast, bullets flying everywhere, grenades blowing up, Monolith fighters yelling their nonsense... I fled to the theatre to catch a breath. Only to realise it was full of friggin' zombies. I skedaddled the hell out of there... and then I ran into another bunch of zombies. Good thing you came, I kinda ran out of options... Can we go to the laundromat now? Please?</text>
+	</string>
+	<string id="stalker_stitch_dialog_oa_2">
+		<text>Sure thing. Let's go.</text>
+	</string>
+	
+	<string id="stalker_stitch_dialog_oa_saved_0">
+		<text>We made it. You didn't get bitten, right? Not sure who'd treat the medic for infections.</text>
+	</string>
+	<string id="stalker_stitch_dialog_oa_saved_1">
+		<text>Ha! I'd laugh my ass off if I wasn't still shaking...phew. Thanks for the help, man, I owe you one.</text>
+	</string>
+	<string id="stalker_stitch_dialog_oa_saved_2">
+		<text>You're welcome, Stitch.</text>
+	</string>
+	
+	<string id="stalker_stitch_dialog_oa_join_0">
+		<text>We've got to hurry, let's go.</text>
+	</string>
+	<string id="stalker_stitch_dialog_oa_join_1">
+		<text>Sure man, let's do this!</text>
+	</string>
+	
+	<string id="stalker_rogue_dialog_oa_join_0">
+		<text>We've got to hurry, let's go.</text>
+	</string>
+	<string id="stalker_rogue_dialog_oa_join_1">
+		<text>I've got a bad feeling about this.</text>
+	</string>
+	
+	<string id="degtyarev_start_0">
+		<text>We're on a tight schedule here, so let's make this quick.</text>
+	</string>
+	
+	<string id="degtyarev_start_jup_0">
+		<text>Hello there.</text>
+	</string>
+	
+	<string id="degtyarev_start_pri_0">
+		<text>Oh, it's you. You'd best not involve yourself any further.</text>
+	</string>
+	
+	<string id="degtyarev_transmission_0">
+		<text>Who are you?</text>
+	</string>
+	<string id="degtyarev_transmission_1">
+		<text>Colonel Degtyarev, and it seems you've stumbled into my operation. Still, there's no time to waste: come help my unit eliminate an enemy squad. I hope I can rely on you as a member of Duty.</text>
+	</string>
+	<string id="degtyarev_transmission_100">
+		<text>Colonel Degtyarev, and it seems you've stumbled into my operation. Still, there's no time to waste: come help my unit eliminate an enemy squad. Of course, you'll be well compensated for your services as a Mercenary.</text>
+	</string>
+	<string id="degtyarev_transmission_110">
+		<text>Colonel Degtyarev, and it seems you've stumbled into my operation. Still, there's no time to waste: come help my unit eliminate an enemy squad. Of course, you'll be treated as a Military Stalker for the duration of your aid, with a more than reasonable reward at the end.</text>
+	</string>
+	<string id="degtyarev_transmission_120">
+		<text>Colonel Degtyarev, and it seems you've stumbled into my operation. Still, there's no time to waste: come help my unit eliminate an enemy squad. As a member of Clear Sky, you likely understand that some secrets are best kept hidden.</text>
+	</string>
+	<string id="degtyarev_transmission_130">
+		<text>Colonel Degtyarev, and it seems you've stumbled into my operation. Still, there's no time to waste: come help my unit eliminate an enemy squad. We're targeting foreign government forces, which should help you Freedomers keep the Zone in anarchy.</text>
+	</string>
+	<string id="degtyarev_transmission_140">
+		<text>Colonel Degtyarev, and it seems you've stumbled into my operation. Still, there's no time to waste: come help my unit eliminate an enemy squad. I realise you're likely here for research, but you've more than proven your mettle against Sin, and we'll need all the help we can get.</text>
+	</string>
+	<string id="degtyarev_transmission_2">
+		<text>Alright, I'll help you out.</text>
+	</string>
+	<string id="degtyarev_transmission_21">
+		<text>I'm not interested in helping the Ukrainian Military.</text>
+	</string>
+	<string id="degtyarev_transmission_3">
+		<text>Good. The enemy's currently stationed in an abandoned ranger station to the north-east. Take point, my unit and I will be right behind you.</text>
+	</string>
+	<string id="degtyarev_transmission_31">
+		<text>The Zone is being invaded by international government forces. You may not care for Ukraine's troops, but I can guarantee the people this unit are fighting now are much, much worse.</text>
+	</string>
+	<string id="degtyarev_transmission_4">
+		<text>Okay, let's go.</text>
+	</string>
+	<string id="degtyarev_transmission_41">
+		<text>Fine, you've made your point. I'll help out the devil I know.</text>
+	</string>
+	
+	<string id="degtyarev_rally_point_middle_0">
+		<text>We've got them all. What happens now?</text>
+	</string>
+	<string id="degtyarev_rally_point_middle_1">
+		<text>We've just dealt with the sentries they left behind. Let's wait for the rest of the team here, they should be returning from recon in a few.</text>
+	</string>
+	<string id="degtyarev_rally_point_middle_2">
+		<text>How many?</text>
+	</string>
+	<string id="degtyarev_rally_point_middle_3">
+		<text>Nine well-armed soldiers. Their commander has got an exoskeleton, so make ready for a tough fight.</text>
+	</string>
+	<string id="degtyarev_rally_point_middle_4">
+		<text>Let's hope they don't realize anything is up until it's too late.</text>
+	</string>
+	
+	<string id="degtyarev_rally_point_0">
+		<text>Now we've got them all. Anything else?</text>
+	</string>
+	<string id="degtyarev_rally_point_1">
+		<text>Search the bodies. Their captain will have a PDA on him, I'd like to take a look at it.</text>
+	</string>
+	<string id="degtyarev_rally_point_2">
+		<text>Sure thing.</text>
+	</string>
+	
+	<string id="degtyarev_rally_point_pda_0">
+		<text>I've found the captain's PDA.</text>
+	</string>
+	<string id="degtyarev_rally_point_pda_1">
+		<text>Good, hand it to me. This'll help us predict their next movement.</text>
+	</string>
+	<string id="degtyarev_rally_point_pda_2">
+		<text>Who exactly are these people?</text>
+	</string>
+	<string id="degtyarev_rally_point_pda_3">
+		<text>You read the patches on their uniforms, didn't you?</text>
+	</string>
+	<string id="degtyarev_rally_point_pda_4">
+		<text>Yeah, it says "UNISG", but if those were scientists then I'm a Burer.</text>
+	</string>
+	<string id="degtyarev_rally_point_pda_5">
+		<text>Perhaps they were back in 2011, when they were first founded. But given all the recent chaos, the war with Sin, the giant emission that was recently released...seems the United Nations felt the need to reorganize them into a special reconnaissance task force. They still claim to study the Zone just like the Ecologists, but we know they're very curious about its origin, too. Something which best remains a mystery for now.</text>
+	</string>
+	<string id="degtyarev_rally_point_pda_6">
+		<text>And what happens now? How will your superiors feel about my involvement in all this?</text>
+	</string>
+	<string id="degtyarev_rally_point_pda_7">
+		<text>I'll keep your involvement a secret, if only to spare you from the brass' constant meddling and oversight. And like I said, you'll receive a commission from me for your service here. But a friendly warning; keep the secrets you've uncovered here to yourself, including this operation. The less you talk, the less likely it is that another agent of the SSU gets sent after you.</text>
+	</string>
+	<string id="degtyarev_rally_point_pda_8">
+		<text>Alright, I get it. Farewell, Colonel.</text>
+	</string>
+	
+	<string id="degtyarev_further_cooperation_special_delivery_0">
+		<text>Can't say I expected you here.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_1">
+		<text>Yanov is an old haunt of mine. Loki has graciously allowed me to use this place as a base, at least for the time being.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_2">
+		<text>You're telling me that Freedom is cool with the Military hanging around here?</text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_3">
+		<text>Oh, they're definitely not. But an exception has been made for me. It seems most prefer to remember me for my time as a helpful neutral stalker. I hope to live up to that perception as best as possible.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_4">
+		<text>Yeah, sure. But why did you send me a message? I didn't think you'd need a travelling companion.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_5">
+		<text>You see, I am a busy man. There are many things I have to take care of at the same time, not all of which are suited for my soldiers. You've accomplished much during your time in the Zone. Any assistance you'd lend would be highly appreciated, and rewarded.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_6">
+		<text>What do you need?</text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_7">
+		<text>I need a package delivered to one of my friends. He'll be waiting not far from here. Thing is, he told me he's under pursuit from UNISG kill-teams, so the delivery must be quick and furtive. Are you in?</text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_8">
+		<text>Yes, I'll do it.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_special_delivery_9">
+		<text>Come back when you're done.</text>
+	</string>
+	
+	<string id="degtyarev_further_cooperation_undercover_agent_0">
+		<text>About the delivery...</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_1">
+		<text>What is it, stalker?</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_11">
+		<text>I trust a professional like you isn't having too much trouble?</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_2">
+		<text>Nothing, nevermind.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_20">
+		<text>I brought the package to your, uhm, friend.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_200">
+		<text>Your friend got caught. He was dead by the time I arrived.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_210">
+		<text>Sorry, I wasn't able to deliver the case on time.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_3">
+		<text>Excellent, here's your reward. And another task for you. You see, another friend of mine managed to infiltrate a UNISG team early on. He's been noting every war crime they've become complicit in for quite some time. Contact him directly and take a pendrive containing the intel from him.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_4">
+		<text>How will I approach him? UNISG didn't seem too friendly last time.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_5">
+		<text>While he's mostly been observing UNISG's troops, he's currently stationed with one of their actual science teams as a guard. Just approach alone all friendly-like and you should be fine. When you approach him, my friend will ask you about dangerous mutants in the area. Remember, tell him "I was attacked by a pack of blind dogs on my way here".</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_6">
+		<text>Okay, I'm on it.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_undercover_agent_300">
+		<text>Shit, this is bad. I'll have to make another plan. Here's a small reward to help you resupply anyways; I'll need you fresh for the next task. You see, another friend of mine managed to infiltrate a UNISG team early on. He's been noting every war crime they've become complicit in for quite some time. Contact him directly and take a pendrive containing the intel from him.</text>
+	</string>
+	
+	<string id="degtyarev_further_cooperation_search_unit_0">
+		<text>About your undercover agent...</text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_1">
+		<text>What is it, stalker?</text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_2">
+		<text>Nothing, nevermind.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_20">
+		<text>I have the pendrive. UNISG didn't suspect anything.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_200">
+		<text>I have the pendrive. Unfortunately, things got heated.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_3">
+		<text>Good job. I'm almost done in this sector. The only thing left is to take care of the UNISG teams setting up at the Jupiter factory. I don't want them to find anything confidential the SSU may have missed. They must be eliminated before they secure the area for their science teams.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_4">
+		<text>Yeah, I'd hate it for the SSU to have to gun down civilians.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_300">
+		<text>You...dammit man, it was a simple pass-phrase! I expect more of someone with your resume. Still, we might find some use for the info that you've brought. The only thing left is to take care of the UNISG teams setting up at the Jupiter factory. I don't want them to find anything confidential the SSU may have missed. They must be eliminated before they secure the area for their science teams.</text>
+	</string>
+	
+	<string id="degtyarev_further_cooperation_search_unit_middle_0">
+		<text>Well, the pile of bones just keeps getting bigger. Are we done yet?</text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_middle_1">
+		<text>The immediate threat is gone. Now we should search the factory to find any remaining documents. I've been here before, but wouldn't be surprised to find I missed anything. Those were busy times.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_search_unit_middle_2">
+		<text>Alright. Watch me become a bloody digger.</text>
+	</string>
+	
+	<string id="degtyarev_further_cooperation_final_0">
+		<text>Here, take the documents.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_final_1">
+		<text>Very well, we're done in Yanov.\nI've received info regarding unusual Monolith activity in the Outskirts of Pripyat, Strelok is somehow involved with this as well.\nIt's time for me to leave now, Operation Afterglow is still ongoing. Thanks for the help. See you around.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_final_2">
+		<text>See you.</text>
+	</string>
+	
+	<string id="degtyarev_further_cooperation_final_bad_0">
+		<text>We're too late. If anything was here, it's being poured over by UNISG researchers as we speak. What now?</text>
+	</string>
+	<string id="degtyarev_further_cooperation_final_bad_1">
+		<text>My job gets harder now, that's what. Still, we're done in Yanov.\nI've received info regarding unusual Monolith activity in the Outskirts of Pripyat, Strelok is somehow involved with this as well.\nIt's time for me to leave now, I have to salvage the operation. Your time assisting me is over. See you around.</text>
+	</string>
+	<string id="degtyarev_further_cooperation_final_bad_2">
+		<text>See you, Degtyarev.</text>
+	</string>
+	
+	<string id="degtyarev_finale_dialogue_0">
+		<text>What's going on here, Colonel?</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_1">
+		<text>It can be easy to forget, but I'm an officer of the Security Service of Ukraine, and I have orders. The Zone has got many secrets that best remain hidden. Some people have already discovered far too much for comfort. Strelok is one of those people, and the UNISG know this. My operational goal is to prevent sensitive information from leaking into the wrong hands. My orders are to bring Strelok back under government custody to continue working as our research advisor...or to eliminate him. I am sorry, but I don't have much choice in the matter.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_2">
+		<text>Are you seriously trying to apprehend Strelok? He's one of the most experienced stalkers in the Zone. That guy has been fighting the Monolith, and winning, for several years!</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_3">
+		<text>Operation Afterglow has been a severe disappointment so far. UNISG have already discovered almost enough to justify a joint international annexing of Chernobyl. Situation's FUBAR, and the least we can do is some damage control to salvage the operation. Brass can't let anyone else speak with Strelok. This includes you.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_300">
+		<text>Operation Afterglow has been a great success so far. We were able to guard all of our secrets from the UNISG, and they'll likely be forced to rapidly demilitarize within Chernobyl, if not leave entirely. Situation's stable, and all that's left is to tie up loose ends and wrap up the operation. We can't let anyone else speak with Strelok.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_310">
+		<text>Operation Afterglow has been a disappointment so far. UNISG has learned enough to secure additional funding and support from the UN and its people. Situation's serious, and we mustn't fail any more to salvage the operation. We can't let anyone else speak with Strelok. This includes you.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_311">
+		<text>Operation Afterglow has been a disappointment so far. UNISG has learned enough to secure additional funding and support from the UN and its people. Situation's serious, and we mustn't fail any more to salvage the operation. We can't let anyone else speak with Strelok. This includes you.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_312">
+		<text>Operation Afterglow has been a disappointment so far. UNISG has learned enough to secure additional funding and support from the UN and its people. Situation's serious, and we mustn't fail any more to salvage the operation. We can't let anyone else speak with Strelok. This includes you.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_313">
+		<text>Operation Afterglow has been a disappointment so far. UNISG has learned enough to secure additional funding and support from the UN and its people. Situation's serious, and we mustn't fail any more to salvage the operation. We can't let anyone else speak with Strelok. This includes you.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_320">
+		<text>Operation Afterglow has been a success so far. While UNISG discovered a little, it won't be enough to justify their upkeep for more than a year or two. Situation's favourable, and we should tie up loose ends to wrap up the operation. We can't let anyone else speak with Strelok.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_321">
+		<text>Operation Afterglow has been a success so far. While UNISG discovered a little, it won't be enough to justify their upkeep for more than a year or two. Situation's favourable, and we should tie up loose ends to wrap up the operation. We can't let anyone else speak with Strelok.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_322">
+		<text>Operation Afterglow has been a success so far. While UNISG discovered a little, it won't be enough to justify their upkeep for more than a year or two. Situation's favourable, and we should tie up loose ends to wrap up the operation. We can't let anyone else speak with Strelok.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_323">
+		<text>Operation Afterglow has been a success so far. While UNISG discovered a little, it won't be enough to justify their upkeep for more than a year or two. Situation's favourable, and we should tie up loose ends to wrap up the operation. We can't let anyone else speak with Strelok.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_324">
+		<text>Operation Afterglow has been a success so far. While UNISG discovered a little, it won't be enough to justify their upkeep for more than a year or two. Situation's favourable, and we should tie up loose ends to wrap up the operation. We can't let anyone else speak with Strelok.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_325">
+		<text>Operation Afterglow has been a success so far. While UNISG discovered a little, it won't be enough to justify their upkeep for more than a year or two. Situation's favourable, and we should tie up loose ends to wrap up the operation. We can't let anyone else speak with Strelok.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_326">
+		<text>Operation Afterglow has been a success so far. While UNISG discovered a little, it won't be enough to justify their upkeep for more than a year or two. Situation's favourable, and we should tie up loose ends to wrap up the operation. We can't let anyone else speak with Strelok.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_327">
+		<text>Operation Afterglow has been a success so far. While UNISG discovered a little, it won't be enough to justify their upkeep for more than a year or two. Situation's favourable, and we should tie up loose ends to wrap up the operation. We can't let anyone else speak with Strelok.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_328">
+		<text>Operation Afterglow has been a success so far. While UNISG discovered a little, it won't be enough to justify their upkeep for more than a year or two. Situation's favourable, and we should tie up loose ends to wrap up the operation. We can't let anyone else speak with Strelok.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_329">
+		<text>Operation Afterglow has been a success so far. While UNISG discovered a little, it won't be enough to justify their upkeep for more than a year or two. Situation's favourable, and we should tie up loose ends to wrap up the operation. We can't let anyone else speak with Strelok.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_4">
+		<text>I'm sorry I wasn't of much help. Is this really necessary?</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_400">
+		<text>I'm glad I could help you accomplish so much. Is there any chance I could ask for a favour in return?</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_410">
+		<text>It's not that bad, you don't have to do this!</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_420">
+		<text>I'm glad I could help you in accomplishing that. Is there any chance I could ask for a favour in return?</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_5">
+		<text>Yes, absolutely. I'm afraid I require your full cooperation unless you want to be "swept under the rug" as well.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_500">
+		<text>This is a military operation, although you did contribute significantly to its success. What kind of "favour" did you have in mind?</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_510">
+		<text>Actually, I do. I hope you'll cooperate, I don't want you to be "swept under the rug" as well.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_520">
+		<text>This is a military operation, and I'm not sure I have enough leeway to be granting any "favours"...but try me.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_6">
+		<text>Well, shit. I suppose I've got no choice but to cooperate.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_61">
+		<text>I'm sick of this shit, Degtyarev. Time to put you down, like I should've at the beginning.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_600">
+		<text>I think we both know that Strelok won't want to come quietly. Let me try convince him to work out a compromise instead - he goes into hiding along with his secrets in exchange for you letting him go.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_7">
+		<text>That...that sounds like a reasonable favour. The brass won't like it, but I think we have enough leeway to afford letting him 'get away', given the overall success of the operation. Alright. I'll give you ten minutes to be alone with him and work things out.</text>
+	</string>
+	<string id="degtyarev_finale_dialogue_8">
+		<text>Thanks, Colonel. This would be the best outcome for everyone.</text>
+	</string>
+	
+	<string id="degtyarev_finale_military_dialogue_0">
+		<text>You've got it your way. Strelok won't reveal any secrets ever again.</text>
+	</string>
+	<string id="degtyarev_finale_military_dialogue_1">
+		<text>This wasn't the best solution, but we had little choice. At least now Operation Afterglow isn't a complete failure... and you can leave in one piece, as long as you swear to keep your own mouth shut. I'm afraid we'll be watching you even closer from this point onwards.</text>
+	</string>
+	<string id="degtyarev_finale_military_dialogue_100">
+		<text>This wasn't the best solution, but if it works, it works... At least we can now say Operation Afterglow was somewhat successful. In recognition of your moderate contribution, I can let you go as long as you swear to keep your own mouth shut. Remember, we'll be watching you.</text>
+	</string>
+	<string id="degtyarev_finale_military_dialogue_2">
+		<text>I only agreed to this to keep you and your tin soldier boys off my ass. I certainly won't tell anyone what I found out about the Zone. That's a promise.</text>
+	</string>
+	<string id="degtyarev_finale_military_dialogue_3">
+		<text>Very well. No offence, but I hope we won't meet again.</text>
+	</string>
+	<string id="degtyarev_finale_military_dialogue_300">
+		<text>Very well. We probably won't meet again, but I'm sure that suits you just fine.</text>
+	</string>
+	<string id="degtyarev_finale_military_dialogue_4">
+		<text>Bye, Colonel.</text>
+	</string>
+	
+	<string id="degtyarev_finale_negotiator_dialogue_0">
+		<text>One more UNISG squad dead, and no need for more violence. Strelok will make sure they won't find him.</text>
+	</string>
+	<string id="degtyarev_finale_negotiator_dialogue_1">
+		<text>Solid job, if I do say so myself. Strelok can leave, we won't pursue him any more. So can you.</text>
+	</string>
+	<string id="degtyarev_finale_negotiator_dialogue_100">
+		<text>Good work. We'll let Strelok leave, although we'll keep an eye on him. Same about you.</text>
+	</string>
+	<string id="degtyarev_finale_negotiator_dialogue_2">
+		<text>Fair enough. It was quite nice working with you, Colonel.</text>
+	</string>
+	<string id="degtyarev_finale_negotiator_dialogue_3">
+		<text>Once again, excellent work. We might cooperate again some day. Until then.</text>
+	</string>
+	<string id="degtyarev_finale_negotiator_dialogue_300">
+		<text>You performed fairly well. You're free to go and resume your usual activities. Goodbye.</text>
+	</string>
+	<string id="degtyarev_finale_negotiator_dialogue_4">
+		<text>See you, Colonel.</text>
+	</string>
+	
+	<string id="army_lt_jup_special_delivery_0">
+		<text>Yes? What do you want?</text>
+	</string>
+	<string id="army_lt_jup_special_delivery_1">
+		<text>I've got a package from Colonel Degtyarev for you.</text>
+	</string>
+	<string id="army_lt_jup_special_delivery_2">
+		<text>Alright, hand it to me.</text>
+	</string>
+	<string id="army_lt_jup_special_delivery_3">
+		<text>Is that all?</text>
+	</string>
+	<string id="army_lt_jup_special_delivery_4">
+		<text>Yes, there's no time to waste. You can go now.</text>
+	</string>
+	<string id="army_lt_jup_special_delivery_5">
+		<text>Have a good trip.</text>
+	</string>
+	
+	<string id="army_isg_spy_undercover_agent_0">
+		<text>What are you doing here, stalker? Camp's a little tense today, best to stay away if you don't want trouble.</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_1">
+		<text>I'm just a messenger. A mutual contact wanted me to inform you about mutant activity in the area.</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_2">
+		<text>Ah, alright. So, how was the trip? Anything dangerous around?</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_3">
+		<text>I was attacked by a pack of blind dogs on my way here.</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_301">
+		<text>Actually, I was attacked by a pack of blind dogs on my way here.</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_302">
+		<text>Actually, I was attacked by a pack of blind dogs on my way here.</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_30">
+		<text>I was attacked by a pack of pseudodogs on my way here.</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_31">
+		<text>I was attacked by a pack of pseudogiants on my way here.</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_40">
+		<text>Uh, are you sure about that?</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_50">
+		<text>Shit, you idiot! Take this and leave right now!</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_4">
+		<text>Mhm, right. We'll watch out for them, thanks. Take this and go right now.</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_5">
+		<text>Bye.</text>
+	</string>
+	<string id="army_isg_spy_undercover_agent_60">
+		<text>Well, shit.</text>
+	</string>
+	
+	<string id="military_tarasov_dialog_start_0">
+		<text>Yet another mission in the Zone...</text>
+	</string>
+	<string id="military_tarasov_dialog_oa_join_0">
+		<text>We're moving out, let's go.</text>
+	</string>
+	<string id="military_tarasov_dialog_oa_join_1">
+		<text>To think that stalker helped us out a few years ago. Well, orders are orders.</text>
+	</string>
+</string_table>

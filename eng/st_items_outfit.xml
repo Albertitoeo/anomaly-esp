@@ -1,0 +1,1589 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Miscellaneous gear -->
+	<string id="st_psy_helmet_name">
+		<text>Scientific psy-helmet (calibrated)</text>
+	</string>
+	<string id="st_psy_helmet_desc">
+		<text>A customised version of the psy-helmet, developed under the leadership of Sakharov at the research station near Yantar. The unique layout of the helmet, consisting of electrical artefacts together with the device’s mounted antennas operate on the principle of the shield. When activated, the helmet projects an invisible dome near the carrier, acting on the energised particles released by the Shell artefact, thanks to which most of the radiation is extinguished, then the remnants are reflected by the protection system built directly into the helmet’s body. The uniqueness of this Psi-helmet lies in the ability to withstand theoretically, any psi-radiation, now known in the territory of the Chernobyl Exclusion Zone.</text>
+	</string>
+	
+	<string id="st_bad_psy_helmet_name">
+		<text>Scientific psy-helmet (uncalibrated)</text>
+	</string>
+	<string id="st_bad_psy_helmet_desc">
+		<text>A customised, uncalibrated version of the psy-helmet, developed under the leadership of Sakharov at the research station near Yantar. The unique layout of the helmet, consisting of electrical artefacts together with the device’s mounted antennas operate on the principle of the shield. When activated, the helmet projects an invisible dome near the carrier, acting on the energised particles released by the Shell artefact, thanks to which most of the radiation is extinguished, then the remnants are reflected by the protection system built directly into the helmet’s body. The uniqueness of this Psi-helmet lies in the ability to withstand theoretically, any psi-radiation, now known in the territory of the Chernobyl Exclusion Zone.</text>
+	</string>
+	
+
+<!-- Headgear -->
+	<string id="st_helm_exo_name">
+		<text>Exohelm</text>
+	</string>
+	<string id="st_helm_exo_descr">
+		<text>%c[ui_gray_1]This helmet resembles that of an ordinary exoskeleton, but differs sightly from its standard counterpart and has differing protective characteristics. Good protection from gunfire and high calibre rounds in combination with anomaly protection make this helmet one of the best in its category.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_battle">
+		<text>Sphere M12 helmet</text>
+	</string>
+	<string id="st_helm_battle_dolg">
+		<text>Duty Sphere M12 helmet</text>
+	</string>
+	<string id="st_helm_battle_freedom">
+		<text>Freedom Sphere M12 helmet</text>
+	</string>
+	<string id="st_helm_battle_descr">
+		<text>%c[ui_gray_1]A titanium helmet with cloth camouflage. Comes with pockets that can be filled with additional armor. Custom design, presumably never entered mass-production. Supports the installation of a night sight 1PN93-1. M12 is the heaviest combat helmet available in the Zone, where it is normally used as a part of a set that includes also PSZ-series Spetsnaz body armor. The purpose of this helmet is clear: provide maximum head protection at the cost of increased weight.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_hardhat">
+		<text>M40 steel helmet</text>
+	</string>
+	<string id="st_helm_hardhat_descr">
+		<text>%c[ui_gray_1]A desperately outdated steel army helmet without any additions. Provides no protection against anomalies or radiation, but can deflect bullets. This helmet was never particularly popular in the Zone, except for use in brief armed conflicts between factions.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_protective">
+		<text>SSP-99 helmet</text>
+	</string>
+	<string id="st_helm_protective_descr">
+		<text>%c[ui_gray_1]A SSP-99 ‘Ecologist’ helmet, detached from its original suit. Has a hermetic design, designed for complete isolation from the conditions of an anomalous environment. It can be used in combination with military bulletproof vests, in order to increase their effectiveness in anomaly fields.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_respirator">
+		<text>EO-20 PBF gas mask</text>
+	</string>
+	<string id="st_helm_respirator_freedom">
+		<text>Freedom EO-20 PBF gas mask</text>
+	</string>
+	<string id="st_helm_respirator_dolg">
+		<text>Duty EO-20 PBF gas mask</text>
+	</string>
+	<string id="st_helm_respirator_descr">
+		<text>%c[ui_gray_1]A modernised, significantly more compact version of classic EO-19 PBF gas mask. Updated EO-20 particulate filters underwent a significant miniaturization, but their protective properties were increased nevertheless. Radiation shielding has also been enhanced thanks to the implementation of lead elements in the apparatus. It should be noted, however, that while it serves its purpose well in areas of increased radioactivity levels, the mask suffers from a high failure rate in toxic environments and is also prone to get irreversibly damaged if subjected to direct impact.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_resp">
+		<text>Respirator</text>
+	</string>
+	<string id="st_helm_resp_descr">
+		<text>%c[ui_gray_1]A regular plastic and rubber respirator, used to protect the wearer from inhaling harmful dusts, fumes, vapours or gases. Widely used by rookies and veterans of all factions due to its universal functionality. Does not provide any physical protection.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_respirator_gp5">
+		<text>GP-5 gas mask</text>
+	</string>
+	<string id="st_helm_respirator_gp5_descr">
+		<text>%c[ui_gray_1]The GP-5 gas mask was intended to protect the civilian population of the Soviet Union from radioactive fallout, and was manufactured during the Cold War from 1962 to 1989. It is a helmet-mask made of white and black rubber, with the lenses held in place by a crimping rim. The lower part of the mask is made of metal, there are valves and filter fixing. GP-5 is widely used by loners and bandits because of its availability and cheap price.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_bandana">
+		<text>Bandana</text>
+	</string>
+	<string id="st_helm_bandana_descr">
+		<text>%c[ui_gray_1]Ordinary fabric bandana. Used by military soldiers. It is recommended to wear it even if there is no signalling of the Geiger counter, since the air can be contaminated to some extent. However, with prolonged use, it can accumulate toxins, so it is always desirable to have a spare for a quick replacement.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_rp_bala">
+		<text>Balaclava</text>
+	</string>
+	<string id="st_helm_rp_bala_descr">
+		<text>%c[ui_gray_1]Regular black fabric balaclava. It is often used by stalkers to be more stealthy, or to hide their face from others. No worse than stalker gauze bandages. It is recommended to it wear even if there is no signalling of the Geiger counter, since the air can be contaminated to some extent. However, with prolonged use, it can accumulate toxins, so it is always desirable to have a spare for a quick replacement.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_cloth_mask">
+		<text>Cloth mask</text>
+	</string>
+	<string id="st_helm_cloth_mask_descr">
+		<text>%c[ui_gray_1]A simple piece of cloth, folded into a mask. It is often used by stalkers to prevent dangerous particles from entering the body, as a precautionary measure. It is recommended to wear even if there is no signalling of the Geiger counter, since the air can be contaminated to some extent. However, with prolonged use, it can accumulate toxins, so it is always desirable to have a spare for a quick replacement.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_m40">
+		<text>PMK helmet</text>
+	</string>
+	<string id="st_helm_m40_descr">
+		<text>%c[ui_gray_1]The PMK is equipped with a multilayered 40-millimetres breathing filter placed on the left. Using this system reduces the mobility of the owner, but provides good protection against radiation even with partial damage to the mask. This gas mask model was intended for use by the Ukrainian Special Forces, but it was never launched into mass production. It is possible to equip it with night vision.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_metro">
+		<text>M10 helmet</text>
+	</string>
+	<string id="st_helm_metro_descr">
+		<text>%c[ui_gray_1]A modern, high quality Western style helmet with built-in air filtration system. The design consists of several layers of Kevlar to protect the wearer from severe physical harm. The helmet is also made of composite dielectric materials, thereby protecting the wearer from electric shocks.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_tactic">
+		<text>Sphere-08 helmet</text>
+	</string>
+	<string id="st_helm_tactic_descr">
+		<text>%c[ui_gray_1]A modern, high quality Western style helmet with built-in air filtration system. The design consists of several layers of Kevlar to protect the wearer from severe physical harm. The helmet is also made of composite dielectric materials, thereby protecting the wearer from electric shocks.\n \n
+		</text>
+	</string>
+
+	<string id="helm_spartan">
+		<text>mTR-33 "Spartan" ballistic helmet</text>
+	</string>
+	<string id="helm_spartan_descr">
+		<text>%c[ui_gray_1]mTR-33 ballistic helmet, nicknamed "Spartan", was developed alongside the PSZ-7p Pantsir armored suit and is meant to be used with it for maximized ballistic protection. The helmet was meant to provide highest possible protection. It achieves this goal by its compound structure; it is made of a few layers of different materials, from steel through kevlar to simple cloth padding. It also has a thin layer of lead built in, which in combination with the helmet's general thickness, results in surprisingly good psy protection. Spartan's visor provides a wide field of view, more so than any other heavy combat helmet available in the Zone. It can also be modified by adding a night vision device. It should be noted that this helmet was not meant for use in areas of high anomalous activity: it easily erodes under the influence of acids, and its filters are only good for protecting from irradiated particles - stronger toxic fumes will eat right through it. It is also adviced to avoid thermal anomalies while wearing the "Spartan", as temperature inside it rises quickly and may pose a serious threat to the wearer. \n \n
+		</text>
+	</string>
+	
+	<string id="helm_dolg_battle">
+		<text>Duty Sphere M12</text>
+	</string>
+	<string id="helm_dolg_battle_descr">
+		<text>%c[ui_gray_1]One of two versions of Sphere M12 used by Duty. This one is more commonly used and improves upon original M12 in terms of physical and psy protection, at cost of slightly increased weight and worse resistance to elements. It is supposed to be worn with PSZ-9d armored suit, same as original M12 is worn with the Bulat.\n \n
+		</text>
+	</string>
+	
+	<string id="helm_dolg_battle_redline">
+		<text>Duty Sphere M12 "Red Line"</text>
+	</string>
+	<string id="helm_dolg_battle_redline_descr">
+		<text>%c[ui_gray_1]Of two versions of Duty's Sphere M12, this one is more technologically advanced, and therefore both more protective and lighter. Same as the PSZ-9d "Red Line", this tactical headset is only given to most well-known soldiers of Duty, who achieved great things for their faction. This helmet is not only a masterpiece of combat design, but also a sign of great honor and high position within Duty's ranks. \n \n
+		</text>
+	</string>
+	
+	<string id="helm_dolg_vintage">
+		<text>PSM-4 combat helmet</text>
+	</string>
+	<string id="helm_dolg_vintage_descr">
+		<text>%c[ui_gray_1]PSM-4 is a heavy and bulky, but very durable combat helmet. It has an integrated, tough gas mask reinforced with a number of metal parts and fit for popular EO-19 filters. It also has a class IIIA anti-ballistic visor and can be modified with a night vision device. The helmet is very heavy due to its mostly metal construction and very slight use of modern synthetic materials. It is very uncomfortable, but thanks to its thickness it is not only very physically resistant, but also capable of shielding the wearer from a considerable amount of external psy influence. It should be noted, that this thickness, compared with mostly meatl build, make the inside of helmet heat up really quickly, possibly posing a threat to the wearer. It is therefore highly adviced to take the helmet off when in close proximity of thermal anomalies. Even though the PSM-4 cannot be count among more optimal helmets, it is still used by some Duty soldiers who require solid protection, but lack the money to afford high-end gear. There also are some old military equipment enthusiasts, who wear the PSM-4 just for its characteristic, vintage look. \n \n
+		</text>
+	</string>
+	
+	<string id="helm_ach7">
+		<text>ACH-7 headgear set</text>
+	</string>
+	<string id="helm_ach7_descr">
+		<text>%c[ui_gray_1]ACH-7 (Advanced Compound Headgear, 7 Parts) is an advanced lightweight headgear set of unknown origin. It is unclear as to where this set comes from, as the manufacturer is anonymous and their name is not mentioned on any part of the set; even more of a secret is how it makes its way into the Zone. A thing that is commonly known, on the other hand, is the fact that this headgear is only sold by major neutral traders, and that it is as rare as it is expensive. The set consists of seven main parts. The helmet comprises of three of them - ceramic armor plates, additional layers of kevlar on both sides and the casing, made of hard plastic on the outside and soft, comfortable synthetic padding on the inside. Part four is the integrated class IIIA collapsible visor, and part five - integrated NV device. Last two parts are considered as the "ACH utility pack"; pieces of part six are an ear plug and a microphone connected to a surprisingly compact radio, while part seven is a small but strong LED flashlight and two compartments placed in the back of the helmet (they look like neck-covering plates): one of them being a stash for batteries, and the other one housing a pack of needles, a few pieces of thread and a set of tiny spare parts for electronic devices used in the set. It is needless to say that this headgear is one of the most wanted by Stalkers, especially that its lack of a gas mask can be easily changed - any technician can attach one to the mounts already present at the base of the helmet.\n \n
+		</text>
+	</string>
+	
+	<string id="helm_ach7ex">
+		<text>ACH-7EX headgear set</text>
+	</string>
+	<string id="helm_ach7ex_descr">
+		<text>%c[ui_gray_1]ACH-7EX is the "Extended" version of original ACH-7 headgear set. It improves upon the original by introducing a reinforced face mask additionally serving as a gas mask. The mask not only provides additional protection, but it uses relatively popular EO-21 filters, and its apparatus is configured in a way that it doesn't make breathing more difficult - the difference is barely noticable when comparing taking deep breaths with and without the mask. The set possesses much more potential for modification and its construction allows it to use the same parts as the military Sphere 08 helmet. This headgear is even more rare and expensive than its basic version, and is therefore much more desired; only well-known Stalkers are granted the option to buy it, too. All of that makes the ACH-7EX one of the favourite helmets of veteran and exepert Stalkers.\n \n
+		</text>
+	</string>
+	
+	<string id="helm_eo21">
+		<text>EO-21 PBFM gas mask</text>
+	</string>
+	<string id="helm_eo21_descr">
+		<text>%c[ui_gray_1]Even further modernized version of EO-20 PBF gas mask, designed by Stalker craftsmen. It is both more protective and resistant, and it uses filters that are slightly lighter and guarantee a bit better protection from irradiated particles and toxins. Its visor is wider and more impact-resistant; the apparatus was also made less susceptible to any sources of physical damage.\n \n
+		</text>
+	</string>
+	
+	<string id="helm_dolg_eo21_red">
+		<text>EO-21 PBFM Krasnyy</text>
+	</string>
+	<string id="helm_dolg_eo21_red_descr">
+		<text>%c[ui_gray_1]EO-21 PBFM gas mask modified by Duty for enhanced physical protection. It is at the point of highest, most optimal and budget-friendly defence/weight ratio. This is the Krasnyy series model, designed for use with the modified PS5-2M; regular verison of this mask used by Duty is simply an original EO-21 with red filters.\n \n
+		</text>
+	</string>
+	
+	<string id="helm_eo21sawnoff">
+		<text>EO-21 PBFL gas mask</text>
+	</string>
+	<string id="helm_eo21sawnoff_descr">
+		<text>%c[ui_gray_1]The most compact, lightest gas mask in the Zone. It is commonly known as the "sawn-off EO-21", as it looks like if someone took the original mask and cut off its upper half. In thruth, this mask was designed this way and is meant for use in less contaminated areas. Its main goal, aside of protection of course, is to make using it as comfortable as possible. It can be used both by itself or with an oxygen tank, which can be attached by a pipe to a socket present on the left side of the mask, just above one of its filters. It uses the exact same filter type as full sized EO-21.\n \n
+		</text>
+	</string>
+	
+	<string id="helm_dolg_eo21sawnoff">
+		<text>Duty EO-21 PBFL</text>
+	</string>
+	<string id="helm_dolg_eo21sawnoff_descr">
+		<text>%c[ui_gray_1]Compact version of EO-21 gas mask used by low-ranking Duty members in the least contaminated areas of the Zone. Compared to its original version, the mask was made just slightly more resistant, optimizing it for combat performance to minimize the risk of any heavy damage. Even though it still doesn't stand much of a chance against pistol bullets, it won't crack after recieving a strong punch, and will save the wearer's teeth as well.\n \n
+		</text>
+	</string>
+	
+	<string id="helm_gp5">
+		<text>GP-5 gas mask</text>
+	</string>
+	<string id="helm_gp5_descr">
+		<text>%c[ui_gray_1]Soviet gas mask that can operate in temperatures between -40  and 114 degrees Celsius, and last for up to 24 hours in an NBC situation. It was very common among first Stalkers, but got eventually "replaced" by EO-20 and EO-21 masks; now it is most commonly used as a part of Antirad-type suits. The last remaining not-damaged GP-5's are still sold by major traders in the Zone and offer levels of protection similar to more modern gas masks, and for a low price, too. The main downsides of this mask are its poor comfort of use, low resistance to physical damage, and the fact that its filter contains asbestos (it was recently found in the cotton layer of the filter), which can be inhaled when the filter gets damaged - and in the Zone, it can happen all to easily.\n \n
+		</text>
+	</string>
+	
+	<string id="helm_ppm88">
+		<text>PPMz-88 gas mask</text>
+	</string>
+	<string id="helm_ppm88_descr">
+		<text>%c[ui_gray_1]Zone-produced version of russian PPM-88 gas mask. It protects from irradiated particles on a level similar to GP series of gas masks and is used by some Stalkers as an alternative to the M40 gas mask, which is relatively difficult to obtain. Compared to the M40, the PPMz-88 is more physically resistant, but also less comfortable to wear and not as compact. While its environmental protection levels are slighly inferior to those offered by M40, it seems to fare much better in increased temperatures. Comes with a NV device set.\n \n
+		</text>
+	</string>
+	
+	<string id="helm_m50">
+		<text>C50 gas mask</text>
+	</string>
+	<string id="helm_m50_descr">
+		<text>%c[ui_gray_1]The M50 gas mask was designed to protect the wearer from both irradiated particles and toxic chemical agents that can be present on battlefield. It replaced M40-series gas masks, previously used by the United States Armed Forces. Apparently this mask was also bought by some private military companies, including the one that sends its mercenaries into the Zone. It was introduced to the Mercs' arsenal not too long ago, along with the TS series suits. This particular variant of M50 gas mask, known as C50, is modified to use 40mm NATO filters instead of the original M50 filters. Equipped with a NV device for nighttime operations behind enemy lines.\n \n
+		</text>
+	</string>
+	
+	<string id="helm_ranger">
+		<text>mTR-20 "Ranger" gas mask</text>
+	</string>
+	<string id="helm_ranger_descr">
+		<text>%c[ui_gray_1]Gas mask designed by Duty along with the PSZ-3v Voin combat suit, almost right after the Pantsir project was successfully completed. The purpose of mTR-20 "Ranger" is to provide Duty's regular combat units with a mask that is both highly protective and durable, holding up well against both chemical and physical threats. The mask is surprisingly resistant and relatively easy to repair, and not exceptionally expensive, too. Its only real downside is its weight, which reduces the comfort of use. Comes with a NV device for nighttime combat scenarios.\n \n
+		</text>
+	</string>
+	
+	<string id="helm_dolg_tactic_red">
+		<text>Duty Sphere 08 Krasnyy</text>
+	</string>
+	<string id="helm_dolg_tactic_red_descr">
+		<text>%c[ui_gray_1]Sphere 08 headgear set modified and used by Duty, usually paired with their version of Berill armored suit. Same as the rest of Duty's Krasnyy series gear, this helmet is supposed to serve as a combat gear protecting from both human and mutant threat; it is therefore even more vulnerable to environmental threats than the original, but in turn provides more physical and psy protection. \n \n
+		</text>
+	</string>
+
+
+<!-- Novice outfits -->
+	<string id="novice_outfit_name">
+		<text>Leather jacket</text>
+	</string>
+	<string id="novice_outfit_description">
+		<text>%c[ui_gray_1]A standard overcoat that keeps the wearer warm during rain and strong winds. It offers little to no protection.\n \n
+		</text>
+	</string>
+
+	<string id="novice_outfit_camo_name">
+		<text>Leather jacket (camouflaged)</text>
+	</string>
+	<string id="novice_outfit_camo_description">
+		<text>%c[ui_gray_1]A camouflaged overcoat, capable of keeping its wearer warm during rain and strong winds. It offers little to no protection.\n \n
+		</text>
+	</string>
+
+	<string id="novice_outfit_tourist_name">
+		<text>Tourist’s jacket</text>
+	</string>
+	<string id="novice_outfit_tourist_description">
+		<text>%c[ui_gray_1]A standard overcoat, capable of keeping its wearer warm during rain and strong winds. It offers little to no protection, but is fitted with several compartments for additional storage.\n \n
+		</text>
+	</string>
+
+	<string id="csky_novice_outfit_name">
+		<text>Clear Sky leather jacket</text>
+	</string>
+	<string id="csky_novice_outfit_description">
+		<text>%c[ui_gray_1]A blue pattern leather jacket, made in large quantities by local tailors for issue within Clear Sky. It offers little to no protection.\n \n
+		</text>
+	</string>
+
+	<string id="dolg_novice_outfit_name">
+		<text>Duty leather jacket</text>
+	</string>
+	<string id="dolg_novice_outfit_description">
+		<text>%c[ui_gray_1]A black leather jacket, produced on special order in the Great Land and issued to every recruit in Duty. It is only durable against harsh weather, and can barely protect from bullets or other dangers within the Zone.\n \n
+		</text>
+	</string>
+
+	<string id="bandit_novice_outfit_name">
+		<text>Black leather jacket</text>
+	</string>
+	<string id="bandit_novice_outfit_description">
+		<text>%c[ui_gray_1]A black leather jacket with woven armour elements in common use amongst bandits and crooks. Gives some amount of protection, though is extremely inadequate in the conditions of the Zone.\n \n
+		</text>
+	</string>
+
+	<string id="bandit_novice_alt_outfit_name">
+		<text>Black leather jacket (armoured)</text>
+	</string>
+	<string id="bandit_novice_alt_outfit_description">
+		<text>%c[ui_gray_1]A black leather jacket with woven armour elements in common use amongst bandits and crooks. Gives some amount of protection, though is extremely inadequate in the conditions of the Zone. Fitted with reinforced armour.\n \n
+		</text>
+	</string>
+	
+	<string id="redline_novice_outfit_name">
+		<text>Redline leather jacket</text>
+	</string>
+	<string id="redline_novice_outfit_description">
+		<text>%c[ui_gray_1]A red leather jacket with woven armour elements in common use amongst loners, bandits and crooks. Gives some amount of protection, though is extremely inadequate in the conditions of the Zone.\n \n
+		</text>
+	</string>
+
+	<string id="svoboda_novice_outfit_name">
+		<text>Freedom leather jacket</text>
+	</string>
+	<string id="svoboda_novice_outfit_description">
+		<text>%c[ui_gray_1]A camouflaged leather jacket, issued to new recruits among Freedom. capable of keeping its wearer warm during rain and strong winds. It offers little to no protection.\n \n
+		</text>
+	</string>
+
+
+<!-- Overcoats -->
+	<string id="monolith_trenchcoat_outfit_name">
+		<text>Monolith overcoat</text>
+	</string>
+	<string id="trenchcoat_freedom_brown_outfit_name">
+		<text>Heavy Freedom overcoat</text>
+	</string>
+	<string id="trenchcoat_dolg_brown_outfit_name">
+		<text>Heavy Duty overcoat</text>
+	</string>
+	
+	<string id="trenchcoat_outfit_name">
+		<text>Overcoat</text>
+	</string>
+	<string id="trenchcoat_outfit_description">
+		<text>%c[ui_gray_1]A long overcoat. It is enforced with a special padding around the torso and the head, which allows it to serve as low grade anti-anomaly armour. It is best used in conjunction with a gas mask or closed-breathing apparatus.\n \n
+		</text>
+	</string>
+
+	<string id="trenchcoat_brown_outfit_name">
+		<text>Heavy brown overcoat</text>
+	</string>
+	<string id="trenchcoat_brown_outfit_description">
+		<text>%c[ui_gray_1]A long and thick overcoat with extra padding for added protection. Can serve as low-grade anti-anomaly armour, but is best used in conjunction with a gas mask or closed-breathing apparatus.\n \n
+		</text>
+	</string>
+	
+	<string id="trenchcoat_green_outfit_name">
+		<text>Heavy green overcoat</text>
+	</string>
+	<string id="trenchcoat_green_outfit_description">
+		<text>%c[ui_gray_1]A long and thick overcoat with extra padding for added protection. Can serve as low-grade anti-anomaly armour, but is best used in conjunction with a gas mask or closed-breathing apparatus.\n \n
+		</text>
+	</string>
+	
+	<string id="greh_trenchcoat_outfit_name">
+		<text>Sin heavy overcoat</text>
+	</string>
+	<string id="greh_trenchcoat_outfit_name_description">
+		<text>%c[ui_gray_1]A long overcoat. It is enforced with a special padding around the torso and the head, which allows it to serve as low grade anti-anomaly armour. It is best used in conjunction with a gas mask or closed-breathing apparatus.\n \n
+		</text>
+	</string>
+	
+
+<!-- Exploration -->
+	<string id="travel_outfit_name">
+		<text>Voyager suit</text>
+	</string>
+	<string id="travel_outfit_description">
+		<text>%c[ui_gray_1]A set based on the Sunrise suit, crafted for long journeys across the Zone. Its main goal is to grant less experienced Stalkers a dependable protection from irradiated and toxic particles carried by the wind, as well as a number of capacious pockets to store anything that may either be of use or sold for a good price. The suit is lightweight and comfortable, and even though it will not be of any help in a firefight, it helps to bear nasty weather and keep the wearer warm. It is also surprisingly resistant to cuts and tearing, with durability and repair costs on pair with the Sunrise suit.\n \n
+		</text>
+	</string>
+	
+	<string id="nomad_outfit_name">
+		<text>ACG-R "Nomad" suit</text>
+	</string>
+	<string id="nomad_outfit_description">
+		<text>%c[ui_gray_1]ACG-R (Advanced Combat Gear, "Recon" version) "Nomad" is a Zone equivalent of a ghillie suit. It is provided to major neutral traders by the same anonymous manufacturer that designed the ACH-7 and ACH-7EX headgear sets. The "Nomad" is a light suit made of thick, very resistant fabric, additionally padded and impregnated with protective compounds. Its outer layer is pretty much entirely waterproof and surprisingly difficult to cut or tear when considering its low weight and thinness. Inner side of the jacket has multiple pockets and magazine slots; it is also extended by a hood with built-in thin lead mesh slightly protecting from psy waves. The set also contains a lightweight kevlar vest worn under the main jacket, rated for class IIA ballistic protection. There also are additional pockets and packs that can be attached to the suit and further increase its carrying capacity, still leaving a space for a backpack. All these features, combined with its dry leaf camouflage patern, make the "Nomad" a favourite of lone Stalkers who prefer sniper-style approaches both against mutant and human threats. With this suit, one doesn't need to worry neither about inventory space, nor passive radiation or proximity of anomaly fields.\n \n
+		</text>
+	</string>
+	
+	<string id="antirad_outfit_name">
+		<text>GP-5MvC Antirad bodysuit</text>
+	</string>
+	<string id="antirad_outfit_description">
+		<text>%c[ui_gray_1]GP-5 Antirad suit was designed even before the discovery of the Brainscorcher, and was actually worn by the very Stalkers who first brought news about unusually strong psy waves north of Army Warehouses. The suit was developed by some frequent visitors of the 100 Rads and the Barkeep himself, who supported the project financially, and later made a lot of money selling sets of the suit. Since then the suit was upgraded multiple times, but the base design (based on Sunrise suit) remained the same. In its current, modernized version (GP-5M) its main components are the Sunrise suit with specially treated fabrics and more rubberized parts, as well as with a larger number of pockets. A common and old but still reliable GP-5 gas mask is integrated with lightweight oxygen tanks carried on the back. The main goal of this outfit was to provide much more radiation protection than the regular Sunrise, making journeys to the north not as dangerous. Even though it is often called a budget SEVA suit, it doesn't even come close to its level of anomalous protection. The suit is meant to be worn in highly irradiated areas, but it doesn't stand much of a chance against stronger anomaly fields. Version C of the outfit additionally bears a camouflage pattern of different shades of green, enabling the wearer to easily hide in dense foliage. \n \n
+		</text>
+	</string>
+	
+	<string id="hybrid_outfit_name">
+		<text>Hybrid suit</text>
+	</string>
+	<string id="hybrid_outfit_description">
+		<text>%c[ui_gray_1]This outfit was meant to be a budget, more accessible equivalent on the armored SEVA suit used by the Mercenaries. Called "Hybrid", this suit is made from a basic SEVA bodysuit, re-colored into plain brownish camoulfage and additionally armored with parts of military grade Berill outfit. The armor is evenly distributed on all parts of the body, with the strongest part being the vest, able to stop smaller rifle calibers like 5.56 x 45 mm. Another feature of the Hybrid is increased carrying capacity, thanks to quite a few additional pockets. The outfit is, however, not as resistant to elements as the regular SEVA - parts coming from the Berill are more susceptible to heat and acids, and metal armor plates conduct electricity, posing additional threat to the wearer. The outfit is also very heavy and uncomfortable, but its overall protection/price ratio is the best out of all suits commonly available south of the Radar. As the internal construction of Hybrid is still the same as that of a SEVA bodysuit, it is not possible to modify it in any other way than that of a regular SEVA. \n \n
+		</text>
+	</string>
+	
+	<string id="wastelander_outfit_name">
+		<text>Wastelander suit</text>
+	</string>
+	<string id="wastelander_outfit_description">
+		<text>%c[ui_gray_1]The Wastelander is the most advanced version of Sunrise suit, and one of the most expensive suits available in the Zone. Designed by Kardan, with advices of a master Stalker known as "Hunter", the Wastelander was meant to serve the most experienced Stalkers, protecting them while they were scouting newly discovered areas in northern part of the Zone. It is a combination of parts of SEVA class bodysuit and military grade outfits, in a compact and comfortable package based on Sunrise suit. The outfit has an incredible potential for modification and is surprisingly resistant, thanks to special treatment of its fabric. Only a few sets of this suit were crafted, due to extreme rarity and price of required parts, which lead to the suit having an insanely high price. Only the richest Stalkers can afford those last few remaining sets, and thats only if they manage to reach the north and buy it. Comes with a unique, integrated and lightly armored gas mask. The Wastelander also bears a camouflage pattern similar to that of "Tigerstripe" Sunrise suit, but more detailed, making the wearer even more difficult to spot in dried, irradiated vistas of the north. \n \n
+		</text>
+	</string>
+
+
+<!-- NBC outfits -->
+	<string id="nbc_outfit_name">
+		<text>NBC suit</text>
+	</string>
+	<string id="nbc_outfit_description">
+		<text>%c[ui_gray_1]This suit is a modified version of the standard Sunrise outfit, composed of a camouflaged CBRN suit with a Class III Kevlar vest. It comes standard with a GP-5 gas mask using a hose leading to a modern filter.\n \n
+		</text>
+	</string>
+	
+	<string id="monolith_nbc_outfit_name">
+		<text>Monolith NBC suit</text>
+	</string>
+	<string id="monolith_nbc_outfit_description">
+		<text>%c[ui_gray_1]Liberated by the Monolith, this suit is an advanced version of the standard Sunrise outfit, composed of a white CBRN suit with a Class III Kevlar vest. It comes standard with a GP-5 gas mask using a hose leading to a modern filter.\n \n
+		</text>
+	</string>
+
+	<string id="cs_nbc_outfit_name">
+		<text>Clear Sky NBC suit</text>
+	</string>
+	<string id="cs_nbc_outfit_description">
+		<text>%c[ui_gray_1]Repurposed for issue within Clear Sky, this suit is an advanced version of the standard Sunrise outfit, composed of a blue CBRN suit with a Class III Kevlar vest. It comes standard with a GP-5 gas mask using a hose leading to a modern filter.\n \n
+		</text>
+	</string>
+
+	<string id="nbc_merc_outfit_name">
+		<text>Mercenary NBC suit</text>
+	</string>
+	<string id="nbc_merc_outfit_description">
+		<text>%c[ui_gray_1]Acquired and modified by mercenaries in the Zone, this suit is an advanced version of the standard Sunrise outfit, composed of a dark blue CBRN suit with a Class III Kevlar vest. It comes standard with a GP-5 gas mask using a hose leading to a modern filter.\n \n
+		</text>
+	</string>
+
+	<string id="nbc_freedom_outfit_name">
+		<text>Freedom NBC suit</text>
+	</string>
+	<string id="nbc_freedom_outfit_description">
+		<text>%c[ui_gray_1]Presumably traded or looted from other factions, this suit is an advanced version of the standard Sunrise outfit, composed of a green CBRN suit with a Class III Kevlar vest. It comes standard with a GP-5 gas mask using a hose leading to a modern filter.\n \n
+		</text>
+	</string>
+
+	<string id="nbc_dolg_outfit_name">
+		<text>Duty NBC suit</text>
+	</string>
+	<string id="nbc_dolg_outfit_description">
+		<text>%c[ui_gray_1]Produced on order for Duty in the Great Land, this suit is an advanced version of the standard Sunrise outfit, composed of a dark CBRN suit with a Class III Kevlar vest. It comes standard with a GP-5 gas mask using a hose leading to a modern filter.\n \n
+		</text>
+	</string>
+
+	<string id="bandit_nbc_outfit_name">
+		<text>Bandit NBC suit</text>
+	</string>
+	<string id="bandit_nbc_outfit_description">
+		<text>%c[ui_gray_1]In use amongst wealthier crooks, this bandit suit is an advanced version of the standard Sunrise outfit, composed of a dark CBRN suit with a Class III Kevlar vest. It comes standard with a GP-5 gas mask using a hose leading to a modern filter.\n \n
+		</text>
+	</string>
+	
+	
+<!-- Assault vest -->
+	<string id="light_loner_outfit_name">
+		<text>Light assault vest</text>
+	</string>
+	<string id="light_loner_outfit_description">
+		<text>%c[ui_gray_1]Light assault suit, designed for assault operations in areas with elevated background radiation, but ineffective in conditions of high anomalous activity.\n \n
+		</text>
+	</string>
+	
+	<string id="light_freedom_outfit_name">
+		<text>Freedom light assault vest</text>
+	</string>
+	<string id="light_freedom_outfit_description">
+		<text>%c[ui_gray_1]Light assault suit, designed for assault operations in areas with elevated background radiation, but ineffective in conditions of high anomalous activity.\n \n
+		</text>
+	</string>
+
+	<string id="light_voen_outfit_name">
+		<text>Military light assault vest</text>
+	</string>
+	<string id="light_voen_outfit_description">
+		<text>%c[ui_gray_1]Light assault suit, designed for assault operations in areas with elevated background radiation, but ineffective in conditions of high anomalous activity.\n \n
+		</text>
+	</string>
+
+	<string id="light_monolit_outfit_name">
+		<text>Monolith light assault vest</text>
+	</string>
+	<string id="light_monolit_outfit_description">
+		<text>%c[ui_gray_1]Light assault suit, designed for assault operations in areas with elevated background radiation, but ineffective in conditions of high anomalous activity.\n \n
+		</text>
+	</string>
+
+	<string id="light_dolg_outfit_name">
+		<text>Duty light assault vest</text>
+	</string>
+	<string id="light_dolg_outfit_description">
+		<text>%c[ui_gray_1]Light assault suit, designed for assault operations in areas with elevated background radiation, but ineffective in conditions of high anomalous activity.\n \n
+		</text>
+	</string>
+
+	<string id="light_merc_outfit_name">
+		<text>Mercenary light assault vest</text>
+	</string>
+	<string id="light_merc_outfit_description">
+		<text>%c[ui_gray_1]Light assault suit, designed for assault operations in areas with elevated background radiation, but ineffective in conditions of high anomalous activity.\n \n
+		</text>
+	</string>
+	
+	<string id="light_isg_outfit_name">
+		<text>UNISG light assault vest</text>
+	</string>
+	<string id="light_isg_outfit_description">
+		<text>%c[ui_gray_1]Light assault suit, designed for assault operations in areas with elevated background radiation, but ineffective in conditions of high anomalous activity.\n \n
+		</text>
+	</string>
+
+
+<!-- Sunrise suits -->
+	<string id="stalker_outfit_name">
+		<text>Sunrise suit</text>
+	</string>
+	<string id="stalker_outfit_description">
+		<text>%c[ui_gray_1]This DIY stalker bodysuit is a combination of twin-layered rubberised cloth with Plexiglas lining and built-in body armour. Despite the fact that the body armour is often strained by anything beyond even pistol bullets, the suit enjoys great popularity due to its low cost and modification potential.\n \n
+		</text>
+	</string>
+	
+	<string id="stalker_outfit_camo_name">
+		<text>Sunrise bodysuit "camouflaged"</text>
+	</string>
+	<string id="stalker_outfit_camo_description">
+		<text>%c[ui_gray_1]Camouflaged during assembly, this DIY stalker bodysuit is a combination of twin-layered rubberised cloth with Plexiglas lining and built-in body armour. Despite the fact that the body armour is often strained by anything beyond even pistol bullets, the suit enjoys great popularity due to its low cost and modification potential.\n \n
+		</text>
+	</string>
+
+	<string id="stalker_outfit_alt_name">
+		<text>Sunrise bodysuit "alternative"</text>
+	</string>
+	<string id="stalker_outfit_alt_description">
+		<text>%c[ui_gray_1]This DIY stalker bodysuit is a combination of twin-layered rubberised cloth with Plexiglas lining and built-in body armour. Despite the fact that the body armour is often strained by anything beyond even pistol bullets, the suit enjoys great popularity due to its low cost and modification potential.\n \n
+		</text>
+	</string>
+	
+	<string id="stalker_drought_outfit_name">
+		<text>Sunrise bodysuit "Drought"</text>
+	</string>
+	<string id="stalker_drought_outfit_description">
+		<text>%c[ui_gray_1]A higher quality version of the regular Sunrise bodysuit, made of more resistant and expensive materials. The main build of the suit is pretty much the same as that of basic Sunrise, but the use of higher quality materials lead to increased protective qualities without a significant increase in weight. The suit is also more durable and has a potential for more advanced modifications. The "Drought" version was created for Stalkers who often travel to the north and need a greater protection from radiation and mutant attacks. Its camouflage was based on that of military Bulat armored suit - its color palette, however, has been changed to combination of bleak, grayish brown and green. It helps the wearer blend in among the dried, dead flora of the north, and is effective both in sunlight and at nighttime.\n \n
+		</text>
+	</string>
+	
+	<string id="stalker_predator_outfit_name">
+		<text>Sunrise bodysuit "Predator"</text>
+	</string>
+	<string id="stalker_predator_outfit_description">
+		<text>%c[ui_gray_1]A higher quality version of the regular Sunrise bodysuit, made of more resistant and expensive materials. The main build of the suit is pretty much the same as that of basic Sunrise, but the use of higher quality materials lead to increased protective qualities without a significant increase in weight. The suit is also more durable and has a potential for more advanced modifications. The "Predator" version was designed for mutant hunters who need both mobility and reliable protection, in case of being attacked. Therefore, some heavier components of the suit have been replaced with lighter ones, additional padding was added and a more cut-resistant fabric was used. On top of that the main vest was painted dark green, and the rest of the suit was covered with a simple olive camouflage pattern. This color palette makes the hunter significantly more difficult to spot in forests of central and southern Zone.\n \n
+		</text>
+	</string>
+	
+	<string id="stalker_autumn_outfit_name">
+		<text>Sunrise bodysuit "Autumn"</text>
+	</string>
+	<string id="stalker_autumn_outfit_description">
+		<text>%c[ui_gray_1]A higher quality version of the regular Sunrise bodysuit, made of more resistant and expensive materials. The main build of the suit is pretty much the same as that of basic Sunrise, but the use of higher quality materials lead to increased protective qualities without a significant increase in weight. The suit is also more durable and has a potential for more advanced modifications. The "Autumn" version is one of two variations focused on increasing the wearer's feeling of comfort, to make their journey through the Zone at least a bit easier. "Autumn" does that with the help of built-in layer of a material similar to NRC foil, but working in an entirely opposite way - instead of keeping the body warm, it slightly cools the body, increasing the comfort in a way similar to gentle, cool wind. It also serves as additional protection from acidic compounds which seem to have difficulties burning the way through the layer. The suit also bears an autumn-like woodland camouflage, comprised of olive, grey and brown spots.\n \n
+		</text>
+	</string>
+	
+	<string id="stalker_vineleaf_outfit_name">
+		<text>Sunrise bodysuit "Vineleaf"</text>
+	</string>
+	<string id="stalker_vineleaf_outfit_description">
+		<text>%c[ui_gray_1]A higher quality version of the regular Sunrise bodysuit, made of more resistant and expensive materials. The main build of the suit is pretty much the same as that of basic Sunrise, but the use of higher quality materials lead to increased protective qualities without a significant increase in weight. The suit is also more durable and has a potential for more advanced modifications. The "Vineleaf" version is mainly focused of increasing the wearer's mobility and comfort without reducing its protective qualities. It achieves this goal by the use of a more flexible, thermoactive fabric; the outfit slightly shrinks when exposed to a high heat. Stalkers who just bought the outfit make their way to the nearest thermal anomaly and stand next to it for a while - the outfit then shrinks and fits their body perfectly as a result. Even though it sounds dangeorus, nobody ever reported the suit disturbing their blood flow. This fabric also seems to be a bit more difficult to cut, therefore making the suit grant more protection from attacks of weaker mutants. One last quality of this suit is that its inner layer is treated with a compound which slighlty cools the body, increasing comfort. As its name suggests, "Vineleaf" bears a camouflage in colors similar to that of a vine or ivy leaves. The pattern comprises of large, irregularly shaped spots of lighter and darker shades of the color.\n \n
+		</text>
+	</string>
+	
+	<string id="stalker_bear_outfit_name">
+		<text>Sunrise bodysuit "Bear"</text>
+	</string>
+	<string id="stalker_bear_outfit_description">
+		<text>%c[ui_gray_1]This DIY stalker bodysuit is a combination of a bodysuit made of twin-layered rubberized cloth with plexiglass lining and built-in body armor. Despite the fact that the body armor is incapable of protecting the wearer even from pistol bullets, the suit enjoys great popularity due to its low cost and modification potential. Comes with built-in armor attachment modules. The "Bear" version of Sunrise suit was made for Stalkers who often verse living threats, both mutants and bandits. It has good physical defences, but is found lacking in terms of environmental protection. Its brown color helps the wearer blend in forested areas, especially when hiding behind trees, however funny it may sound.\n \n
+		</text>
+	</string>
+	
+	<string id="stalker_salamander_outfit_name">
+		<text>Sunrise bodysuit "Salamander"</text>
+	</string>
+	<string id="stalker_salamander_outfit_description">
+		<text>%c[ui_gray_1]This DIY stalker bodysuit is a combination of a bodysuit made of twin-layered rubberized cloth with plexiglass lining and built-in body armor. Despite the fact that the body armor is incapable of protecting the wearer even from pistol bullets, the suit enjoys great popularity due to its low cost and modification potential. Comes with built-in armor attachment modules. The "Salamander" was designed for Stalkers who prefer artefact hunting, but lack the money to afford more specialized gear. The outfit provides good protection against toxic fumes, acids and radiation, at the cost of lower physical resistances. It is not far off the basic Sunrise, but retains its comfort of use and is relatively easy to repair. Its plain, dark green color makes the wearer a bit more difficult to spot in forested areas, which comes in handy when you hear bandits approaching, but don't want to get involved in a firefight.\n \n
+		</text>
+	</string>
+	
+	<string id="stalker_graphite_outfit_name">
+		<text>Sunrise bodysuit "Graphite"</text>
+	</string>
+	<string id="stalker_graphite_outfit_description">
+		<text>%c[ui_gray_1]This DIY stalker bodysuit is a combination of a bodysuit made of twin-layered rubberized cloth with plexiglass lining and built-in body armor. Despite the fact that the body armor is incapable of protecting the wearer even from pistol bullets, the suit enjoys great popularity due to its low cost and modification potential. Comes with built-in armor attachment modules. The "Graphite" is the most combat oriented variation of Sunrise suit, designed for Stalkers who like to earn money by fighting bandits rather than hunting artefacts or mutants. It protects better from grenade shrapnels, explosions and gunfire, even when compared to the "Bear" suit. "Graphite" also has a better thermal resistance, in case if the enemy was using thermite grenades or IED's based on explosive powder - this additional protection may also be used to hunt thermal artefacts, if the wearer so desires. The outfit has a dark, grey camouflage pattern (that's the reason for its name) which helps the wearer hide in urban and sub-urban areas, especially at night.\n \n
+		</text>
+	</string>
+	
+	<string id="stalker_tigerstripe_outfit_name">
+		<text>Sunrise bodysuit "Tigerstripe"</text>
+	</string>
+	<string id="stalker_tigerstripe_outfit_description">
+		<text>%c[ui_gray_1]This DIY stalker bodysuit is a combination of a bodysuit made of twin-layered rubberized cloth with plexiglass lining and built-in body armor. Despite the fact that the body armor is incapable of protecting the wearer even from pistol bullets, the suit enjoys great popularity due to its low cost and modification potential. Comes with built-in armor attachment modules. The "Tigerstripe" variation of the Sunrise suit is meant to be used by Stalkers who need both good camouflage and defense from both radiation and mutant attacks. It is a common choice of mutant hunters, allowing them to blend into wilderness and not worry much about radiation or toxic particles in the air. The chemical defence, even though higher than that of basic Sunrise, should not be overestimated, as it is not enough to protect the wearer from stronger chemical anomalies. One last quality of this outfit is that it is lighter than the other variations and its construction does not restrict movement at all, making each move less tiring. The name "Tigerstripe" comes from the camouflage pattern - it is a mix of multiple shades of brown, grey, and some dark green accents, allowing the wearer to stay hidden even if the only cover they have is some tall grass.\n \n
+		</text>
+	</string>
+
+	<string id="ecologist_guard_outfit_name">
+		<text>Ecologist sunrise bodysuit</text>
+	</string>
+	<string id="ecologist_guard_outfit_description">
+		<text>%c[ui_gray_1]This bodysuit is a combination of a bodysuit of twin-layered rubberised cloth with plexiglass lining and built-in body armour. Created specifically for members of the Ecologist faction, this suit is modelled after the popular Sunrise suit.\n \n
+		</text>
+	</string>
+
+	<string id="cs_stalker_outfit_name">
+		<text>Clear Sky sunrise bodysuit</text>
+	</string>
+	<string id="cs_stalker_outfit_description">
+		<text>%c[ui_gray_1]A Clear Sky branded sunrise bodysuit. Despite the fact that the body armour is incapable of protecting the wearer from even pistol bullets, the suit enjoys great popularity within Clear Sky members due to its low cost and modification potential.\n \n
+		</text>
+	</string>
+
+
+<!-- STS (Special Tactical Suits) -->
+	<string id="svoboda_light_outfit_name">
+		<text>Wind of Freedom</text>
+	</string>
+	<string id="svoboda_light_outfit_description">
+		<text>%c[ui_gray_1]This lightweight stalker bodysuit is made by Freedom craftsmen. The suit’s fabric is treated with Horizon, a special solution developed by the faction by trial and error, to increase resistance to anomalies.\n \n
+		</text>
+	</string>
+
+	<string id="monolith_outfit_name">
+		<text>Monolith suit</text>
+	</string>
+	<string id="monolith_outfit_description">
+		<text>%c[ui_gray_1]Stalker suit from the Monolith faction. The producer is unknown. Its protective properties are slightly worse than those of the PSZ-9a military bulletproof vest. Its structure is similar to the suit popular with neutral stalkers which combines a bulletproof vest and a radiation protection suit. It provides good protection from gunfire.\n \n
+		</text>
+	</string>
+
+	<string id="bandit_sun_outfit_name">
+		<text>Bandit suit STS-S "Sunset"</text>
+	</string>
+	<string id="bandit_sun_outfit_description">
+		<text>%c[ui_gray_1]Stolen Sunrise bodysuit, customised by Limpid in a similar fashion to STS (Special Tactical Suit). This suit consists in a combination of a two-layer rubberised fabric with a plexiglas gasket together with an integrated body armour. The modification negatively affected anomaly protection, but slightly increases armour protection.\n \n
+		</text>
+	</string>
+
+	<string id="merc_sun_outfit_name">
+		<text>Mercenary suit STS-S "Sunset"</text>
+	</string>
+	<string id="merc_sun_outfit_description">
+		<text>%c[ui_gray_1]The custom-made STS (Special Tactical Suit) "Sunset" is an outfit with a special fabric treatment and enhanced stability of the armour thanks to the physical displacement of the plates. It's based on the design of the Sunrise suit.\n \n
+		</text>
+	</string>
+
+	<string id="merc_nighthunter_outfit_name">
+		<text>Mercenary suit STS-N "Nighthunter"</text>
+	</string>
+	<string id="merc_nighthunter_outfit_description">
+		<text>%c[ui_gray_1]STS (Special Tactical Suit) "Nighthunter" is one of the latest additions to Mercenaries' arsenal, based on the design of the Sunrise suit, popular among Stalkers. This suit, both not-so-heavy and relatively comfortable, provides protection comparable to some of the heavier, armored suits available in the Zone, like those based on the military Berill outfit. It has a great potential for upgrades as well. "Nighthunter" was meant to be used in nighttime operations behind enemy lines in urban environment, when both swiftness and relatively good protection are needed; proffesional Mercenaries often wear it for a variety of combat scenarios, especially for versing forces of the Monolith.\n \n
+		</text>
+	</string>
+
+	<string id="merc_wolven_outfit_name">
+		<text>Mercenary suit STS-W "Wolven"</text>
+	</string>
+	<string id="merc_wolven_outfit_description">
+		<text>%c[ui_gray_1]STS (Special Tactical Suit) "Wolven" is one of two Mercenary outfits based directly on the popular Sunrise suit. STS-W "Wolven" is meant to be used for stealthy approaches in dense forest environment. It is both light and comfortable, and offers decent physical protection. Its main upside is the great protection from elements and radiation (compared to other suits of the same weight). This design was meant to ensure its user, that they can sneak up on their targets or take safe positions without the need to worry about radiation or effects of nearby anomaly fields. It is mostly used by groups of proffessionals performing tasks, which require taking down groups of targets while they are moving from one location to another; it is also a favorite among Mercs' snipers.\n \n
+		</text>
+	</string>
+
+	<string id="isg_outfit_name">
+		<text>UNISG bodysuit</text>
+	</string>
+	<string id="isg_outfit_description">
+		<text>%c[ui_gray_1]Outfit of choice for the UNISG forces. Very similar in its design to STS bodysuits. Designed to sustain durability under various conditions inside the Zone. Due to a special treatment of the fabric, the armour has a strengthened stability during the physical movement of its plates. Comes with built-in body armour and armour attachment modules.\n \n
+		</text>
+	</string>
+	
+	<string id="isg_merc_outfit_name">
+		<text>UNISG bodysuit "Alternative"</text>
+	</string>
+	<string id="isg_merc_outfit_description">
+		<text>%c[ui_gray_1]An alternate version of regular UNISG bodysuit, fit for use in urban combat. It is both durable and comfortable, granting more protection at the cost of increased weight. It was designed for UNISG serving in areas with high probability of encountering hostile forces using small caliber weaponry. The suit is not heavily armored and should not be used in open combat, but rather for flanking and stealthy approaches behind enemy lines.\n \n
+		</text>
+	</string>
+	
+	
+<!-- LCS (Light Combat Suit) -->
+	<string id="merc_outfit_name">
+		<text>Mercenary LC suit</text>
+	</string>
+	<string id="merc_outfit_description">
+		<text>%c[ui_gray_1]The "Light Combat Suit" is the outfit of choice for the Mercenary faction. Its design is based on the suit used by the special forces of Western armies. Due to a special treatment of the fabric, the armour has a strengthened stability during the physical movement of its plates. Comes with built-in body armour and armour attachment modules.\n \n
+		</text>
+	</string>
+	
+	<string id="merc_fighter_outfit_name">
+		<text>Mercenary LC suit "Fighter"</text>
+	</string>
+	<string id="merc_fighter_outfit_description">
+		<text>%c[ui_gray_1]An alternate version of regular Mercenary LC suit, fit for use in urban combat. It is both durable and comfortable, granting more protection from any kind of physical damage at the cost of increased weight. It was designed for Mercenaries serving in areas with high probability of encountering hostile forces using small caliber weaponry. Its camouflage allows the wearer to blend into urban environments more easily. The suit is not heavily armored and should not be used in open combat, but rather for flanking and stealthy approaches behind enemy lines.\n \n
+		</text>
+	</string>
+
+	<string id="banditmerc_outfit_name">
+		<text>Bandit mercenary LC suit</text>
+	</string>
+	<string id="banditmerc_outfit_description">
+		<text>%c[ui_gray_1]Outfit of choice for the Mercenary faction, recently ‘liberated’ by bandits. The bandit variation suffers from external damage providing less adequate protection across the board, but is not only less costly, but easier to get a hold of.\n \n
+		</text>
+	</string>
+	
+	<string id="renegademerc_outfit_name">
+		<text>Renegade LC suit</text>
+	</string>
+	<string id="renegademerc_outfit_description">
+		<text>%c[ui_gray_1]Outfit of choice for the Mercenary faction, recently ‘liberated’ by Renegades. The Renegades variation suffers from external damage providing less adequate protection across the board, but is not only less costly, but easier to get a hold of.\n \n
+		</text>
+	</string>
+	
+	<string id="merc_sunset_outfit_name">
+		<text>Mercenary LCS "Sunset"</text>
+	</string>
+	<string id="merc_sunset_outfit_description">
+		<text>%c[ui_gray_1]LCS (Light Combat Suit) "Sunset" is an alternate version of the regular Mercenary suit. Its name was supposed to be the opposite of the most common suit among the Stalkers - the Sunrise suit. The Sunset provides defences superior or equal to any of the basic Mercenary suits, still retaining their great comfort of use. Common choice of Mercs who choose to travel and complete their contracts without the help of other Mercenaries. It comes with a set of light armored plates in different sizes, made of a number of different metals and alloys, most notable being carbon steel and titanium. The plates are also covered with a layer of soft rubber and synthetic foam from the inside, which mitigates the force of bullet impact. The plates are supposed to stop most pistol calibers while not restricting the user's movement or slowing them down at the same time. The "Sunset" bears a digital camouflage pattern comprised of bleak brown, green and yeallowish colors; it was probably inspired by the surpat camouflage pattern. \n \n
+		</text>
+	</string>
+
+	<string id="merc_scout_outfit_name">
+		<text>Mercenary LCS "Scout"</text>
+	</string>
+	<string id="merc_scout_outfit_description">
+		<text>%c[ui_gray_1]An alternate version of regular Mercenary suit, fit for scouting in forested areas of the Zone. In comparison to the original version, it grants more protection against environmental threats like radiation and elements. Simple, plain green camouflage makes the user more difficult to spot in the shadow of trees and high grass. It also is lighter, but less resistant to physical damage. Some of less experienced Mercenaries use it for atefact hunting contracts, as it provides relatively good protection from anomalies, at the same time being lightweight and not incredibly expensive.\n \n
+		</text>
+	</string>
+	
+	<string id="merc_jackal_outfit_name">
+		<text>Mercenary TS-L "Jackal"</text>
+	</string>
+	<string id="merc_jackal_outfit_description">
+		<text>%c[ui_gray_1]TS-L (Tactical Suit, Light weight) "Jackal" is the latest addition to Mercenaries' arsenal. It's a light, durable and very comfortable outfit that is quickly gaining good reputation among the Mercs. It was first introduced to their arsenal barely a few months ago, and after a number of field tests it was accepted as a standard outfit of all combat units. The suit comprises of comfortable trousers and a jacket, both bearing a digital camouflage pattern of different shades of brown and yellow-ish grey, and a black tactical vest. The vest not only has slots for ballistic inserts, but also holders for both pistol and rifle magazines (they can be adjusted to fit different mags, or simply detached and replaced with more fitting ones) and additional pockets. The back side of the vest is made to fit well with a small backpack. The set also includes additional pockets and an adjustable pistol holster, all of which can be easily attached to the belt, or be worn by tighs when attached with synthetic straps; a pair of knee and elbow guards is also included.\n \n
+		</text>
+	</string>
+	
+	<string id="merc_coyote_outfit_name">
+		<text>Mercenary TS-M "Coyote"</text>
+	</string>
+	<string id="merc_coyote_outfit_description">
+		<text>%c[ui_gray_1]TS-M (Tactical Suit, Medium weight) "Coyote" is a slightly heavier version of recently introduced ST-L "Jackal". This variation still provides great comfort of use and a reliable amount of protection, but the balance between the two has been changed - the suit is not as comfortable as its lighter counterpart, but it provides more protection and carrying capacity. The main build is almost the same - the only difference is that the "Coyote" has additional lightweight plates built into the sleeves. This change provides a bit more protection while still not limiting the wearer's movement in any significant degree. All other differences are not actually in the suit itself, but rather in its attachment set. "Coyote" provides a set of guards for calves, with an optional extension covering ankles and upper part of feet; both elbow and knee guards possess additional padding, and a few more addtional pockets are included in the set. The differences end here, leaving the potential wearer with a choice between some additional protection or an even greater comfort of use.\n \n
+		</text>
+	</string>
+
+	<string id="greh_armored_outfit_name">
+		<text>Sin combat suit</text>
+	</string>
+	<string id="greh_armored_outfit_description">
+		<text>%c[ui_gray_1]Stalker suit from the Sinners. Unknown producer. Its protective properties are slightly better than those of the Fighter Bodysuit. Its structure is similar to the suit popular with mercenaries which combines a bulletproof vest and a radiation protection suit. It provides good protection from gunfire.\n \n
+		</text>
+	</string>
+	
+	<string id="greh_armored_camo_outfit_name">
+		<text>Sin combat suit "Camouflage"</text>
+	</string>
+	<string id="greh_armored_camo_outfit_description">
+		<text>%c[ui_gray_1]An alternate version of regular Sin combat bodysuit, fit for use in urban combat. Just as its predecessor, its structure is similar to the suit popular with mercenaries which combines a bulletproof vest and a radiation protection suit. It provides good protection from gunfire.\n \n
+		</text>
+	</string>
+	
+	<string id="csky_light_outfit_name">
+		<text>CS-2 body armour</text>
+	</string>
+	<string id="csky_light_outfit_description">
+		<text>%c[ui_gray_1]A blue bodysuit, once used by Clear Sky for conducting search operations in areas of low anomalous activity. It can protect against from bullets of smaller and larger calibres alike.\n \n
+		</text>
+	</string>
+
+	<string id="csky_medium_outfit_name">
+		<text>CS-3a body armour</text>
+	</string>
+	<string id="csky_medium_outfit_description">
+		<text>%c[ui_gray_1]A heavier outfit worn by members of Clear Sky, providing good protection from both anomalous exposure and bullets of various calibres.\n \n
+		</text>
+	</string>
+
+	<string id="dolg_voin_outfit_name">
+		<text>PSZ-3v Voin combat suit</text>
+	</string>
+	<string id="dolg_voin_outfit_description">
+		<text>%c[ui_gray_1]Combat suit designed not long after the Pantsir project was successfully finished. Voin (or "Warrior") was supposed to be a heavier alternative to regular PS5-M Universal Protection suit, while still remaining lighter, more comfortable and versatile than PSZ-5m Krasnyy. The research on this build went surprisingly quickly and smoothly; the suit became the standard equipment of Duty's regular combat squads just a few weeks after its design project was started. PSZ-3v Voin strikes a great balance between comfort, weight and protection, making it suitable for any combat scenarios. It bears regular Duty colors and is most commonly worn with fitting mTR-20 "Ranger" gas mask. Its only real downside is its vulnerability to chemical and thermal anomalies, but it was never meant for use in highly contaminated areas anyway.\n \n
+		</text>
+	</string>
+	
+	<string id="isg_lcs_outfit_name">
+		<text>UNISG LC suit</text>
+	</string>
+	<string id="isg_lcs_outfit_description">
+		<text>%c[ui_gray_1]The "Light Combat Suit" model for UNISG troops. Its design is based on the suit used by the special forces of Western armies. Due to a special treatment of the fabric, the armour has a strengthened stability during the physical movement of its plates. Comes with built-in body armour and armour attachment modules.\n \n
+		</text>
+	</string>
+	
+	<string id="isg_lcs_camo_outfit_name">
+		<text>UNISG LC suit (Camouflaged)</text>
+	</string>
+	<string id="isg_lcs_camo_outfit_description">
+		<text>%c[ui_gray_1]The "Light Combat Suit" model for UNISG troops. Its design is based on the suit used by the special forces of Western armies. Due to a special treatment of the fabric, the armour has a strengthened stability during the physical movement of its plates. Comes with built-in body armour and armour attachment modules. Its battle abilities are further enhanced by its camouflage.\n \n
+		</text>
+	</string>
+	
+	<string id="isg_lcs_urban_outfit_name">
+		<text>UNISG LC suit (Urban Camo)</text>
+	</string>
+	<string id="isg_lcs_urban_outfit_description">
+		<text>%c[ui_gray_1]The "Light Combat Suit" model for UNISG troops. Its design is based on the suit used by the special forces of Western armies. Due to a special treatment of the fabric, the armour has a strengthened stability during the physical movement of its plates. Comes with built-in body armour and armour attachment modules. Its battle abilities are further enhanced by its urban camouflage.\n \n
+		</text>
+	</string>
+
+
+<!-- Berill-5M Armoured Suits -->
+	<string id="army_outfit_name">
+		<text>Soldier uniform</text>
+	</string>
+	<string id="army_outfit_description">
+		<text>A poor protective outfit contracted by government bureaucrats outsourcing to the lowest bidder. It slightly increases bullet, shrapnel and bite protection. For the soldiers serving in the Zone, it is as good as walking naked amidst rifle bullets and anomalies.\n \n
+		</text>
+	</string>
+
+	<string id="specops_outfit_name">
+		<text>Berill-5M armoured suit</text>
+	</string>
+	<string id="specops_outfit_description">
+		<text>%c[ui_gray_1]This item comprises military PS5 series body armour with beryllium sputter modified for use in the Zone. Designed for assault operations in highly radioactive areas, it is ineffective in areas of high anomalous activity. The suit makes its way to stalkers through the military, who exchange it for loot.\n \n
+		</text>
+	</string>
+	
+	<string id="specops_dolg_outfit_name">
+		<text>Duty Berill-5M armoured suit</text>
+	</string>
+	<string id="specops_dolg_outfit_description">
+		<text>%c[ui_gray_1]This item comprises military PS5 series body armour with beryllium sputter modified for use in the Zone. Designed for assault operations in highly radioactive areas, it is ineffective in areas of high anomalous activity.\n \n
+		</text>
+	</string>
+	
+	<string id="specops_merc_outfit_name">
+		<text>Mercenary Berill-5M armoured suit</text>
+	</string>
+	<string id="specops_merc_outfit_description">
+		<text>%c[ui_gray_1]This item comprises military PS5 series body armour with beryllium sputter modified for use in the Zone. Designed for assault operations in highly radioactive areas, it is ineffective in areas of high anomalous activity.\n \n
+		</text>
+	</string>
+	
+	<string id="specops_bandit_outfit_name">
+		<text>Bandit Berill-5M armoured suit</text>
+	</string>
+	<string id="specops_bandit_outfit_description">
+		<text>%c[ui_gray_1]This item comprises military PS5 series body armour with beryllium sputter modified for use in the Zone. Designed for assault operations in highly radioactive areas, it is ineffective in areas of high anomalous activity.\n \n
+		</text>
+	</string>
+
+	<string id="svoboda_heavy_outfit_name">
+		<text>Sentinel of Freedom</text>
+	</string>
+	<string id="svoboda_heavy_outfit_description">
+		<text>%c[ui_gray_1]This stalker bodysuit with reinforced body armour made by Freedom craftsmen represents a good compromise between combat and anomaly protection. The built-in body armour comprises armour plating and ten Kevlar layers, capable of stopping a pistol bullet. The suit uses the relatively expensive Sovereign compound for anomaly protection.\n \n
+		</text>
+	</string>
+
+	<string id="dolg_specops_red_outfit_name">
+		<text>PSZ-5m Krasnyy armored suit</text>
+	</string>
+	<string id="dolg_specops_red_outfit_description">
+		<text>%c[ui_gray_1]Military Berill outfit version used by Duty members for moderate risk assault operations, known as the PSZ-5m. Same as other Krasnyy series outfits used by Duty, it puts physical resistance (especially from mutant attacks) over anomalous protection. This suit is pretty much useless in highly contaminated areas, but there are few outfits providing its level of physical defence for such a price. It bears basic Krasnyy style colors - black and dark, metallic red. It is highly adviced to use it with fitting variant of Sphere 08 headgear set for optimalized ballistic protection. \n \n
+		</text>
+	</string>
+
+
+<!-- PS5-M Universal protection suit -->
+	<string id="dolg_outfit_name">
+		<text>PS5-M Universal Protection</text>
+	</string>
+	<string id="dolg_outfit_description">
+		<text>%c[ui_gray_1]This modern version of the Duty bodysuit is better suited for stalker recruits who are used to lightweight suits. Unlike the PSZ series, the suit provides reasonable protection against anomalies while also being capable of stopping a pistol bullet.\n \n
+		</text>
+	</string>
+	
+	<string id="dolg_scout_outfit_name">
+		<text>PS5-R Razvedchik</text>
+	</string>
+	<string id="dolg_scout_outfit_description">
+		<text>%c[ui_gray_1]Suit designed in early days of Duty's existance, not long after the PS5-M Universal protection became the faction's standard outfit. Its purpose was to provide protection similar to that of PS5-M, while improving its comfort of use and reducing its weight. It was used by soldiers sent to unknown territories to scout them and provide intel, preparing the way for better armed squads. Since then its production has been stopped, as the only areas in the Zone still left to discover are far too contaminated for this outfit. Its existing sets are still used by low ranking Duty members in areas of slight anomalous activity, and it is available for sale even for Stalkers not tied tu Duty in any way. It bears a grey-brown color pattern, providing an average level of camouflage both at night and day. \n \n
+		</text>
+	</string>
+
+	<string id="dolg_red_outfit_name">
+		<text>PS5-2M Krasnyy</text>
+	</string>
+	<string id="dolg_red_outfit_description">
+		<text>%c[ui_gray_1]PS5-2M is a design based on the PS5-M Universal protection suit, but with less balanced properties, focused on combat performance. Even though its ballistic protection has been left unchanged the outfit possesses more overall physical protection than its predecessor. Its fabric is significantly more difficult to tear or cut, but is also more susceptible to thermal, chemical and electrical damge. This suit was the first model available in Duty's Krasnyy series, which has since been expanded by quite a few other outfits and still enjoys a great popularity among Duty members of any rank. The outfit can be easily recognized by its black color with dark red accents with a slight, metallic gloss.\n \n
+		</text>
+	</string>
+
+	<string id="svoboda_heavy_outfit_2_name">
+		<text>Sentinel of Freedom М2</text>
+	</string>
+	<string id="svoboda_heavy_outfit_2_description">
+		<text>%c[ui_gray_1]Lightened ‘Sentinel of Freedom’ model made by Freedom craftsmen represents a good compromise between combat and anomaly protection. The built-in body armour comprises armour plating and few Kevlar layers, capable of stopping a pistol bullet. The suit uses the relatively expensive Sovereign compound for anomaly protection.\n \n
+		</text>
+	</string>
+	
+	<string id="bandit_ps5_outfit_name">
+		<text>PS5-M "Skull"</text>
+	</string>
+	<string id="bandit_ps5_outfit_description">
+		<text>%c[ui_gray_1]A modified bandit version of the universal PS5-M. A considerable number of these outfits start to appear shortly after an infamous raid on a large duty shipment that occured a year ago. The suit has been modified by bandits craftsmen to provide reasonable protection against anomalies.\n \n
+		</text>
+	</string>
+	
+	<string id="greh_ps5_outfit_name">
+		<text>PS5-2M "Sinner"</text>
+	</string>
+	<string id="greh_ps5_outfit_description">
+		<text>%c[ui_gray_1]This outfit's design based on the PS5-M Universal protection suit. It is used by Sin members who prefare lightweight gear. The suit provides reasonable protection against anomalies while also being capable of stopping a pistol bullet.\n \n
+		</text>
+	</string>
+	
+	
+<!-- Skat-9 Military Armoured Suits -->
+	<string id="military_outfit_name">
+		<text>SKAT-9 ‘Bulat’ military armoured suit</text>
+	</string>
+	<string id="military_merc_outfit_name">
+		<text>Mercenary SKAT-9 ‘Bulat’ armoured suit</text>
+	</string>
+	<string id="military_monolit_outfit_name">
+		<text>Monolith SKAT-9 ‘Bulat’ armoured suit</text>
+	</string>
+	<string id="military_freedom_outfit_name">
+		<text>Freedom SKAT-9 ‘Bulat’ armoured suit</text>
+	</string>
+	<string id="military_sky_outfit_name">
+		<text>Clear Sky SKAT-9 ‘Bulat’ armoured suit</text>
+	</string>
+	<string id="military_bandit_outfit_name">
+		<text>Bandit SKAT-9 ‘Bulat’ armoured suit</text>
+	</string>
+	
+	<string id="military_outfit_description">
+		<text>%c[ui_gray_1]This modern military armoured suit is designed for assault operations in anomalous areas. Mainly designed for Spetsnaz units for the purposes of high risk operations. Comprises a PSZ-12p heavy military armoured suit, built-in compensation suit, and an anomalous protection bodysuit. The armour provides excellent protection against bullet and fragmentation damage, without greatly reducing the wearer’s mobility.\n \n
+		</text>
+	</string>
+	
+	<string id="dolg_heavy_redline_outfit_name">
+		<text>PSZ-9d "Red Line"</text>
+	</string>
+	<string id="dolg_heavy_redline_outfit_description">
+		<text>%c[ui_gray_1]Version of the basic PSZ-9d worn by the most effective assault squads in the ranks of Duty. The suit is made of slightly lighter, higher quality materials, at the same time granting even more physical protection. Even though it is almost identical to the regular PSZ-9d it can be easily recognized by an overall darker color pattern with unique red straps painted on armored parts of the suit. Aside from that, it also bears standard black and grey tactical camouflage, making nighttime approaches and use of silenced weaponry more effective. This suit is given as a sign of great service to Duty and its goals, and its very possesion makes the wearer enjoy great respect from other members of the faction.\n \n
+		</text>
+	</string>
+
+	<string id="dolg_heavy_outfit_name">
+		<text>PSZ-9d body armour</text>
+	</string>
+	<string id="dolg_heavy_outfit_description">
+		<text>%c[ui_gray_1]This early model of the Duty bodysuit is the Spetsnaz PSZ-9 body armour modified for the Zone. The suit is capable of stopping a rifle bullet, however, this level of protection comes at the cost of its weight, bulkiness and virtually non-existent anomaly protection.\n \n
+		</text>
+	</string>
+
+
+<!-- Scientific outfits -->
+	<string id="scientific_outfit_name">
+		<text>SEVA bodysuit</text>
+	</string>
+	<string id="scientific_outfit_description">
+		<text>%c[ui_gray_1]This bodysuit, intended for conducting research in the Zone, combines a closed-cycle respiratory module and an external isolation coating, resulting in excellent protection from anomalies. Due to poor protection from physical impact, the suit provides very low defence against bullet and fragmentation damage.\n \n
+		</text>
+	</string>
+
+	<string id="dolg_scientific_outfit_name">
+		<text>PSZ-9Md Universal Protection</text>
+	</string>
+	<string id="dolg_scientific_outfit_description">
+		<text>%c[ui_gray_1]A wonderful protective suit for the Zone, mostly appreciated because it combines both excellent anomaly and bullet-proofing qualities. It includes the PSZ-9d suit, a closed cycle breathing system and an integrated system of anomalous field suppression. Whilst it provides quality bullet and splinter protection it does not come with an artefact container. It provides quality bullet and splinter protection.\n \n%
+		</text>
+	</string>
+
+	<string id="svoboda_scientific_outfit_name">
+		<text>Freedom SEVA bodysuit</text>
+	</string>
+	<string id="svoboda_scientific_outfit_description">
+		<text>%c[ui_gray_1]Produced by Freedom especially for research in the Zone. The closed system of breathing and special treatment materials provide excellent protection against harmful radiation and anomalous effects. However, the built-in body armour isn’t the best and can break somewhat easily, so is not suitable for active hostilities.\n \n
+		</text>
+	</string>
+
+	<string id="merc_scientific_outfit_name">
+		<text>Mercenary SEVA bodysuit</text>
+	</string>
+	<string id="merc_scientific_outfit_description">
+		<text>%c[ui_gray_1]Suit for mercenaries who often work in or near anomalous areas. Protection systems with a closed cycle, built-in suppression action anomalous fields. It provides good protection from bullet and shrapnel hit, but not enough for large-scale hostilities.\n \n
+		</text>
+	</string>
+
+	<string id="monolith_scientific_outfit_name">
+		<text>Monolith SEVA bodysuit</text>
+	</string>
+	<string id="monolith_scientific_outfit_description">
+		<text>%c[ui_gray_1]The Monolith scientific suit includes a flak vest of unknown origin and also features unique modifications for greater resistance to radiation at the cost of being more vulnerable to psi-fields. The anomaly protection system has been upgraded to match the SEVA bodysuit.\n \n
+		</text>
+	</string>
+
+	<string id="cs_scientific_outfit_name">
+		<text>Clear Sky SEVA bodysuit</text>
+	</string>
+	<string id="cs_scientific_outfit_description">
+		<text>%c[ui_gray_1]An unofficial version of the SEVA scientific suit for exploratory groups of the Clear Sky faction. Offers good protection from radiation and from telepathic effects. Other features are similar to the official counterpart.\n \n
+		</text>
+	</string>
+
+	<string id="cs_scientific_outfit_good_name">
+		<text>Pathfinder SEVA bodysuit</text>
+	</string>
+	<string id="cs_scientific_outfit_good_description">
+		<text>%c[ui_gray_1]Enhanced version of the unofficial version of the scientific suit of the Clear Sky faction. Has better, improved protection against radiation and telepathic effects. All of its features are slightly improved compared to the Clear Sky’s standard issue scientific suit.\n \n
+		</text>
+	</string>
+
+	<string id="bandit_scientific_outfit_name">
+		<text>Bandit SEVA bodysuit</text>
+	</string>
+	<string id="bandit_scientific_outfit_description">
+		<text>%c[ui_gray_1]This suit has no obvious markings, but the black colour gives away its ownership. Bandits have never been interested in the science and research of anomalous fields, but, nevertheless, they use such protective suits to organise ambushes and attacks on stalkers where they are not expected at all: in anomalous fields and radiation pockets. The suit has a closed breathing system and an external insulation coating, which provides good protection against all kinds of anomalous effects. Due to a lack of any protection from physical impacts, the suit provides very low protection from bullets or shrapnel.\n \n
+		</text>
+	</string>
+
+	<string id="isg_scientific_outfit_name">
+		<text>UNISG SEVA bodysuit</text>
+	</string>
+	<string id="isg_scientific_outfit_description">
+		<text>%c[ui_gray_1]Produced by UNISG especially for research in the Zone. The closed system of breathing and special treatment materials provide excellent protection against harmful radiation and anomalous effects. However, the built-in body armour isn’t the best and can break somewhat easily, so is not suitable for active hostilities.\n \n
+		</text>
+	</string>
+
+	<string id="merc_scientific_outfit_name">
+		<text>Mercenary SEVA bodysuit</text>
+	</string>
+	<string id="merc_scientific_outfit_description">
+		<text>%c[ui_gray_1]Version of SEVA bodysuit used by the Mercenaries. Physical protection of the suit has been slightly enhanced, at the cost of minor increase of weight. Used by veteran Mercs hunting artefacts near the center of the Zone, often accompanied by a group of other fighters, more prepared for fighting than the user of the SEVA.\n \n
+		</text>
+	</string>
+	
+	<string id="merc_combat_scientific_outfit_name">
+		<text>Mercenary SEVA STS-UC Mk 2 bodysuit</text>
+	</string>
+	<string id="merc_combat_scientific_outfit_description">
+		<text>%c[ui_gray_1]One of the most technologically advanced bodysuits in the Zone, if not the most advanced. STS-UC Mk 2 is the next generation of armored SEVA suits used by the Mercs. This variant is made of lighter materials and is more durable at the same time. It was designed for the most experienced of Mercenaries, who constantly figth near the center of the Zone, and therefore need an unyielding protection from anomalies, radiation and psy waves. The suit has been significantly reinforced, providing a surprising amount of physical protection. It also has a great potential for modification - due to its fundamentally redesigned internal construction, it can be upgraded like an armored suit, granting it even more versatility. Its battle abilities are further enhanced by its digital urban camouflage. The only downsides of this technological miracle are its price and rapair costs - only the most wealthy of Mercenaries can afford it.\n \n
+		</text>
+	</string>
+	
+	<string id="dolg_scientific_outfit_name">
+		<text>Duty SEVA bodysuit</text>
+	</string>
+	<string id="dolg_scientific_outfit_description">
+		<text>%c[ui_gray_1]SEVA class bodysuit used by Duty for mutant and artefact hunting in highly contaminated areas. Compared to the original, its physical defences were upgraded at the cost of downgrade in anomalous protection. \n \n
+		</text>
+	</string>
+	
+	<string id="dolg_scientific_red_outfit_name">
+		<text>Duty SEVA Krasnyy bodysuit</text>
+	</string>
+	<string id="dolg_scientific_red_outfit_description">
+		<text>%c[ui_gray_1]A version of duty SEVA with the Krasnyy color palette - black with metallic, dark red accents. The suit is used in mutant hunts alongside other Krasnyy Duty suits, and therefore puts physical and psy resistances over environmental protection. \n \n
+		</text>
+	</string>
+	
+	<string id="dolg_scientific_wood_outfit_name">
+		<text>Duty SEVA bodysuit (Woodland Camo)</text>
+	</string>
+	<string id="dolg_scientific_wood_outfit_description">
+		<text>%c[ui_gray_1]A version of Duty SEVA used in any operations conducted within the Red Forsest. Its protective qualities are closer to the original SEVA, the main difference being relatively high protection from tears, bites and cuts - main types of damage dealt by mutants. The suit also possesses Duty's dark woodland camouflage, with the red accents slightly darkened. \n \n
+		</text>
+	</string>
+	
+	<string id="bandit_scientific_dark_outfit_name">
+		<text>Bandit SEVA bodysuit (Dark Leather)</text>
+	</string>
+	<string id="bandit_scientific_dark_outfit_description">
+		<text>%c[ui_gray_1]This bodysuit, intended for conducting research in the Zone, combines a closed-cycle respiratory module and an external isolation coating, resulting in excellent protection from anomalies. Due to poor protection from physical impact, the suit provides very low defense against bullet and fragmentation damage. Comes with a built-in armor attachment module. This version of SEVA, modified by bandits, has a dark brown finish and a black-painted vest. It doesn't make for a great camouflage, but gives the bodysuit a unique, almost stylish look.\n \n
+		</text>
+	</string>
+	
+	<string id="renegade_scientific_outfit_name">
+		<text>Renegades SEVA bodysuit</text>
+	</string>
+	<string id="renegade_scientific_outfit_description">
+		<text>%c[ui_gray_1]This bodysuit, intended for conducting research in the Zone, combines a closed-cycle respiratory module and an external isolation coating, resulting in excellent protection from anomalies. Due to poor protection from physical impact, the suit provides very low defense against bullet and fragmentation damage. Comes with a built-in armor attachment module. This version of SEVA, modified by renegades, has a black-painted vest. It doesn't make for a great camouflage, but gives the bodysuit a unique, almost stylish look.\n \n
+		</text>
+	</string>
+	
+	<string id="merc_scientific_armored_outfit_name">
+		<text>Mercenary armored SEVA bodysuit</text>
+	</string>
+	<string id="merc_scientific_armored_outfit_description">
+		<text>%c[ui_gray_1]Version of SEVA bodysuit used by the Mercenaries. It has been additionally reinforced, granting more physical protection; its internal construction has also been changed, so that it can be upgraded like a heavy armored suit, for even more optimized combat performance. It is worn by veteran Mercs completing their tasks near the center of the Zone, in areas both highly contaminated and teeming with Monolith forces, such as Pripyat and its outskirts.\n \n
+		</text>
+	</string>
+
+	<string id="monolith_scientific_light_outfit_name">
+		<text>Monolith SEVA bodysuit (Light Leather)</text>
+	</string>
+	<string id="monolith_scientific_light_outfit_description">
+		<text>%c[ui_gray_1]This bodysuit, intended for conducting research in the Zone, combines a closed-cycle respiratory module and an external isolation coating, resulting in excellent protection from anomalies. Due to poor protection from physical impact, the suit provides very low defense against bullet and fragmentation damage. Comes with a built-in armor attachment module.\n \n
+		</text>
+	</string>
+
+	<string id="ace_outfit_name">
+		<text>ACCRMCS "Ace"</text>
+	</string>
+	<string id="ace_outfit_description">
+		<text>%c[ui_gray_1]One of the most technologically advanced bodysuits in the Zone, if not the most advanced. The ACCRMCS (Advanced Closed-Cycle Respiratory Module Combat Suit), nicknamed "Ace", is a true masterpiece of combat design; not only does it protect from rifle bullets, but it also provides great environmental protection. Its closed-cycle respiratory module has also been enhanced with a ventilation system that can be turned on and off. When in an area where the CCRM is not needed, the ventilation system filters the air and provides it to the wearer, additionally cooling their body and greatly increasing comfort. The suit is also built in a way that allows for a great number of high-tech upgrades that increase the wearer's chance of survival even further. The suit is used only by the richest and most experienced Mercenaries, who take up highest-risk Monolith assasination contracts as far north as the CNPP itself.\n \n
+		</text>
+	</string>
+
+
+<!-- SSP-99 -->
+	<string id="st_ecologist_outfit_orange_name">
+		<text>SSP-99 Ecologist</text>
+	</string>
+	<string id="st_ecologist_outfit_orange_description">
+		<text>%c[ui_gray_1]A SSP-99 chemical protection suit specially designed for the Zone conditions. It is used by scientific expeditions and the eco-stalkers who cooperate with them. It has an integrated air-filtering and air-conditioning system. It is heat and electricity resistant, provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments. It is not designed for combat, so it provides neither bullet, nor splinter protection.\n \n
+		</text>
+	</string>
+
+	<string id="st_ecologist_outfit_grn_name">
+		<text>SSP-99M suit</text>
+	</string>
+	<string id="st_ecologist_outfit_grn_description">
+		<text>%c[ui_gray_1]High quality modified SSP-99 suit. It provides increased body protection from bullet and splinter damage. It is designed for the guards working with scientific expeditions. It provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments and other effects dangerous to the body.\n \n
+		</text>
+	</string>
+
+	<string id="st_ecologist_outfit_white_name">
+		<text>SSP-99 Diamond</text>
+	</string>
+	<string id="st_ecologist_outfit_white_description">
+		<text>%c[ui_gray_1]A SSP-99 chemical protection suit specially designed for the Zone’s harsh conditions. It is used by scientific expeditions and the eco-stalkers who cooperate with them. It has an integrated air-filtering and air-conditioning system, thus providing excellent protection from radiation. The Diamond variant gives superior protection from electricity. Also has an integrated system for suppressing anomalies’ activity, which provides an average protection against chemicals and high temperatures. It is not designed to conduct military operations, therefore it doesn’t provide any protection from bullets or from shrapnel.\n \n
+		</text>
+	</string>
+
+	<string id="st_ecologist_outfit_blue_name">
+		<text>SSP-99M Sapphire</text>
+	</string>
+	<string id="st_ecologist_outfit_blue_description">
+		<text>%c[ui_gray_1]High quality modified SSP-99 suit. It provides increased body protection from bullet and splinter damage. It is designed for the guards working with scientific expeditions. The Sapphire model provides excellent protection against psi exposure. It provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments and other effects dangerous to the body.\n \n
+		</text>
+	</string>
+
+	<string id="st_ecologist_outfit_red_name">
+		<text>SSP-99М Ruby</text>
+	</string>
+	<string id="st_ecologist_outfit_red_description">
+		<text>%c[ui_gray_1]High quality modified SSP-99 suit. It provides increased body protection from bullet and splinter damage. It is designed for the guards working with scientific expeditions. The ‘Ruby’ model gives excellent protection against mutant attacks, as well as a wound healing system integrated in the suit. It provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments and other effects dangerous to the body.\n \n
+		</text>
+	</string>
+
+	<string id="st_ecologist_outfit_yello_name">
+		<text>SSP-99 Topaz</text>
+	</string>
+	<string id="st_ecologist_outfit_yello_description">
+		<text>%c[ui_gray_1]A SSP-99 chemical protection suit specially designed for the Zone conditions. It is used by scientific expeditions and the eco-stalkers who cooperate with them. The Topaz model provides excellent protection against radiation. It has an integrated air-filtering and air-conditioning system. It is heat and electricity resistant, provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments. It is not designed for combat, so it provides neither bullet, nor splinter protection.\n \n
+		</text>
+	</string>
+
+
+<!-- Radiation suits -->
+	<string id="exolight_outfit_name">
+		<text>Radiation suit</text>
+	</string>
+	<string id="exolight_outfit_description">
+		<text>Visually, this suit resembles an exosuit, but the first and the main difference that catches the eye is the lack of servomotors on hands and feet, as well as block of batteries on the back. Because of this difference, it’s lighter and more mobile than exosuit and also allows its owner to sprint. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. The vest consists of several thick layers of kevlar and can be reinforced with composite or titanium plates for increased protection.\n \n
+		</text>
+	</string>
+
+	<string id="dolg_exolight_outfit_name">
+		<text>Duty radiation suit</text>
+	</string>
+	<string id="dolg_exolight_outfit_description">
+		<text>Visually, this suit resembles an exosuit, but the first and the main difference that catches the eye is the lack of servomotors on hands and feet, as well as block of batteries on the back. Because of this difference, it’s lighter and more mobile than exosuit and also allows its owner to sprint. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. The vest has crafted for Duty by an institute and and consists of several thick layers of kevlar and can be reinforced with composite or titanium plates for increased protection.\n \n
+		</text>
+	</string>
+
+	<string id="svoboda_exolight_outfit_name">
+		<text>Freedom radiation suit</text>
+	</string>
+	<string id="svoboda_exolight_outfit_description">
+		<text>Visually, this suit resembles an exosuit, but the first and the main difference that catches the eye is the lack of servomotors on hands and feet, as well as block of batteries on the back. Because of this difference, it’s lighter and more mobile than exosuit and also allows its owner to sprint. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. The vest has been made by black market craftsmen by the request of Freedom and and consists of several thick layers of kevlar and can be reinforced with composite or titanium plates for increased protection.\n \n
+		</text>
+	</string>
+
+	<string id="merc_exolight_outfit_name">
+		<text>Mercenary radiation suit</text>
+	</string>
+	<string id="merc_exolight_outfit_description">
+		<text>Visually, this suit resembles an exosuit, but the first and the main difference that catches the eye is the lack of servomotors on hands and feet, as well as block of batteries on the back. Because of this difference, it’s lighter and more mobile than exosuit and also allows its owner to sprint. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. The vest has been manufactured specifically for mercenaries in the Zone and consists of several thick layers of kevlar and can be reinforced with composite or titanium plates for increased protection.\n \n
+		</text>
+	</string>
+
+	<string id="bandit_exolight_outfit_name">
+		<text>Bandit radiation suit</text>
+	</string>
+	<string id="bandit_exolight_outfit_description">
+		<text>Visually, this suit resembles an exosuit, but the first and the main difference that catches the eye is the lack of servomotors on hands and feet, as well as block of batteries on the back. Because of this difference, it’s lighter and more mobile than exosuit and also allows its owner to sprint. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. The vest has been crafted by craftsmen working under Sultan and consists of several thick layers of kevlar and can be reinforced with composite or titanium plates for increased protection.\n \n
+		</text>
+	</string>
+
+	<string id="monolith_exolight_outfit_name">
+		<text>Monolith radiation suit</text>
+	</string>
+	<string id="monolith_exolight_outfit_description">
+		<text>Visually, this suit resembles an exosuit, but the first and the main difference that catches the eye is the lack of servomotors on hands and feet, as well as block of batteries on the back. Because of this difference, it’s lighter and more mobile than exosuit and also allows its owner to sprint. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. The vest consists of several thick layers of kevlar and can be reinforced with composite or titanium plates for increased protection.\n \n
+		</text>
+	</string>
+
+	<string id="military_exolight_outfit_name">
+		<text>Military radiation suit</text>
+	</string>
+	<string id="military_exolight_outfit_description">
+		<text>This suit was manufactured by military technicians under the government of Ukraine. Visually, it resembles an exosuit, but the first and the main difference that catches the eye is the lack of servomotors on hands and feet, as well as block of batteries on the back. Because of this difference, it’s lighter and more mobile than exosuit and also allows its owner to sprint. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. The vest consists of several thick layers of kevlar and can be reinforced with composite or titanium plates for increased protection.\n \n
+		</text>
+	</string>
+
+	<string id="cs_exolight_outfit_name">
+		<text>Clear Sky radiation suit</text>
+	</string>
+	<string id="cs_exolight_outfit_description">
+		<text>Manufactured by the head technician of Clear Sky, this suit resembles an exosuit; but the first and the main difference that catches the eye is the lack of servomotors on hands and feet, as well as block of batteries on the back. Because of this difference, it’s lighter and more mobile than exosuit and also allows its owner to sprint. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. The vest consists of several thick layers of kevlar and can be reinforced with composite or titanium plates for increased protection.\n \n
+		</text>
+	</string>
+
+	<string id="isg_exolight_outfit_name">
+		<text>UNISG radiation suit</text>
+	</string>
+	<string id="isg_exolight_outfit_description">
+		<text>Visually, this suit resembles an exosuit, but the first and the main difference that catches the eye is the lack of servomotors on hands and feet, as well as block of batteries on the back. Because of this difference, it’s lighter and more mobile than exosuit and also allows its owner to sprint. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. The vest consists of several thick layers of kevlar and can be reinforced with composite or titanium plates for increased protection.\n \n
+		</text>
+	</string>
+	
+	<string id="exo_wood_outfit_name">
+		<text>Radiation suit (TB-1 Woodland Camo)</text>
+	</string>
+	<string id="exo_wood_outfit_description">
+		<text>This heavy armored suit, known as the TB-1, possesses a high physical protection comparing to the original Radiation suits. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. This set is used by master Stalkers traveling through dead forests of the north, who have to be ready not only for fights with mutants, but also increased number of chemical and electrical anomalies in addition to higher radiation levels. It bears a bleak woodland camouflage, with slight, greyish spots and stripes. \n \n
+		</text>
+	</string>
+	
+	<string id="bandit_exo_earth_outfit_name">
+		<text>Bandits radiation suit (TB-1 Digital Earth Camo)</text>
+	</string>
+	<string id="bandit_exo_earth_outfit_description">
+		<text>This heavy armored suit, known as the TB-1, possesses a high physical protection comparing to the original Radiation suits. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. This set bears a digital camouflage pattern of brown, grey and black pixels. It has been additionally hardened and uses plates made of tougher but heavier kinds of steel; additional thermo-resistant layer prevents the wearer from both incendiary and thermite grenades, as well as from thermal anomalies. On the other hand, the outfit is more vulnerable to acids and its metal reinforcements conduct electricity; it is also almost a kilogram heavier than the regular TB-1.\n \n
+		</text>
+	</string>
+	
+	<string id="freedom_exo_vineleaf_outfit_name">
+		<text>Freedom radiation suit (TB-1 Vineleaf Camo)</text>
+	</string>
+	<string id="freedom_exo_vineleaf_outfit_description">
+		<text>This heavy armored suit, known as the TB-1, possesses a high physical protection comparing to the original Radiation suits. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. This set is made of lighter but less physically resistant components, which on the other hand are less susceptible to acids and are worse electricity conductors. The suit can also be slightly adjusted to better fit the wearer's body, decreasing the discomfort and allowing for more "agile" movement. The breathing apparatus of the integrated helmet was also reworked to not only filter the air more efficiently, but also makes breathing slightly easier. Nickname "Vineleaf" comes from the suit's camouflage pattern, resembling the leaves of poisonous ivy.\n \n
+		</text>
+	</string>
+	
+	<string id="exo_dolg_outfit_name">
+		<text>Duty radiation suit TB-1</text>
+	</string>
+	<string id="exo_dolg_outfit_description">
+		<text>This heavy armored suit, known as the TB-1, possesses a high physical protection comparing to the original Radiation suits. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. Even though it lacks anomalous protection (when compared to the original) it boasts even higher defences agains heavy impacts, blunt strikes, cuts and mutant attacks. It also possesses increased psy protection thanks to lead-reinforced helmet. Even though this lead layer is relatively thin, it is enough to almost double the protection without making the hemlet overly heavy. The suit bears standard Duty colors - grey with black and red accents.\n \n
+		</text>
+	</string>
+	
+	<string id="exo_dolg_red_outfit_name">
+		<text>Duty radiation suit (TB-1 Krasnyy)</text>
+	</string>
+	<string id="exo_dolg_red_outfit_description">
+		<text>This heavy armored suit, known as the TB-1, possesses a high physical protection comparing to the original Radiation suits. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. This variant of Duty TB-1 is designed for units hunting down especially dangerous mutants. Its physical defences and psy protection were increased, at the cost of lower anomalous protection. It bears the popular Krasnyy-style color pattern - mainly black, with dark red accents with a slight metallic gloss.\n \n
+		</text>
+	</string>
+	
+	<string id="exo_dolg_wood_outfit_name">
+		<text>Duty radiation suit (TB-1 Woodland Camo)</text>
+	</string>
+	<string id="exo_dolg_wood_outfit_description">
+		<text>This heavy armored suit, known as the TB-1, possesses a high physical protection comparing to the original Radiation suits. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. This variant of Duty TB-1 is used mainly by squads sent for conducting mutant population control operations in the Red Forest and surrounding areas. Due to high anomalous activity in the area, the suit has been reinforced to gain higher protection from elements at the cost of lowered shrapnel, impact and gunfire defences. It also possesses a dark woodland camouflage pattern; red accents, iconic for Duty, were made less glossy and painted to give them a greyish tint.\n \n
+		</text>
+	</string>
+	
+	<string id="exo_dolg_urban_outfit_name">
+		<text>Duty radiation suit (TB-1 Urban Camo)</text>
+	</string>
+	<string id="exo_dolg_urban_outfit_description">
+		<text>This heavy armored suit, known as the TB-1, possesses a high physical protection comparing to the original Radiation suits. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. This variant of Duty TB-1 is most suited for urban combat. It has been additionally armored, providing better protection from shrapnels and bullets; thicker armor also slightly decreases external psy influence on the wearer. Increased physical defences lead to decreased thermal and electrical protection - armored also erode easily when exposed to strong acids or chemical fumes. The suit bears standard Duty urban camouflage, with its iconic red accents still present.\n \n
+		</text>
+	</string>
+	
+	<string id="exo_merc_outfit_name">
+		<text>Mercenary radiation suit TB-1</text>
+	</string>
+	<string id="exo_merc_outfit_description">
+		<text>This heavy armored suit, known as the TB-1, possesses a high physical protection comparing to the original Radiation suits. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. Used by expert Mercenaries on missions in the north, for taking down elite squads of the Monolith. It bears a standard merc dark blue camouflage pattern, suitable for operations in urban environment (or anywhere else, but only at nighttime). \n \n
+		</text>
+	</string>
+	
+	<string id="exo_merc_urban_outfit_name">
+		<text>Mercenary radiation suit (TB-1 Urban Camo)</text>
+	</string>
+	<string id="exo_merc_urban_outfit_description">
+		<text>This heavy armored suit, known as the TB-1, possesses a high physical protection comparing to the original Radiation suits. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. It also bears a camouflage pattern almost identical to that used on Mercenary fighter suits and the combat SEVA suit. \n \n
+		</text>
+	</string>
+	
+	<string id="exo_merc_wood_outfit_name">
+		<text>Mercenary radiation suit (TB-1 Woodland Camo)</text>
+	</string>
+	<string id="exo_merc_wood_outfit_description">
+		<text>This heavy armored suit, known as the TB-1, possesses a high physical protection comparing to the original Radiation suits. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. This version is used for Mercenaries pursuing Monolith squads around the forests of Zaton and other northern forested areas. Aside from the camouflage pattern, it also possesses increased protection agains anomalous threats and radiation. \n \n
+		</text>
+	</string>
+	
+	<string id="exo_merc_grass_outfit_name">
+		<text>Mercenary radiation suit (TB-1 Grassland Camo)</text>
+	</string>
+	<string id="exo_merc_grass_outfit_description">
+		<text>This heavy armored suit, known as the TB-1, possesses a high physical protection comparing to the original Radiation suits. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. This variant of Mercenary TB-1, meant for use by Mercs sent to complete tasks in areas with little cover, where to stay hidden you need to lower your profile and hide in the tall grass. Even though it may seem funny, considering the suit's protection (in this case also increased against mutant threat) it is always better to surprise the enemy than to get shot at immidiately - especially if you work by yourself, as most of this suit's users do. The set is also made of slightly lighter materials, making wearing it just a bit less tiring.\n \n
+		</text>
+	</string>
+	
+	<string id="exolight_outfit_description">
+		<text>This heavy armored suit, known as the TB-1, possesses a high physical protection comparing to the original Radiation suits. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit.\n \n
+		</text>
+	</string>
+
+
+<!-- Proptotype Exoskeleton -->
+	<string id="stalker_proto_exo_outfit_name">
+		<text>Sunrise proto-exoskeleton</text>
+	</string>
+	<string id="stalker_proto_exo_outfit_description">
+		<text>%c[ui_gray_1]A stalker bodysuit, fitted with parts from an exoskeleton for additional protection against ballistics. Despite the fact that the rest of the armour is often strained by anything beyond even pistol bullets, the suit enjoys great popularity due to its low cost and modification potential.\n \n
+		</text>
+	</string>
+
+	<string id="svoboda_light_proto_exo_outfit_name">
+		<text>Freedom proto-exoskeleton</text>
+	</string>
+	<string id="svoboda_light_proto_exo_outfit_description">
+		<text>%c[ui_gray_1]A lightweight stalker bodysuit, made by Freedom craftsmen and fitted with parts from an exoskeleton for additional protection. The suit’s fabric is treated with Horizon, a special solution developed by the faction by trial and error, to increase resistance to anomalies.\n \n
+		</text>
+	</string>
+
+	<string id="dolg_proto_exo_outfit_name">
+		<text>Duty proto-exoskeleton</text>
+	</string>
+	<string id="dolg_proto_exo_outfit_description">
+		<text>%c[ui_gray_1]This modern version of the Duty bodysuit has been fitted with parts from an exoskeleton for additional protection. Unlike the PSZ series, the rest of the suit provides reasonable protection against anomalies while also being capable of stopping a pistol bullet.\n \n
+		</text>
+	</string>
+	
+	<string id="dolg_heavy_proto_exo_outfit_name">
+		<text>PSZ-9d proto-exoskeleton</text>
+	</string>
+	<string id="dolg_heavy_proto_exo_outfit_description">
+		<text>%c[ui_gray_1]This early model of the Duty bodysuit is the Spetsnaz PSZ-9 body armour modified for the Zone. The suit is capable of stopping a rifle bullet, however, this level of protection comes at the cost of its weight, bulkiness and virtually non-existent anomaly protection. Mounted exoskeleton provdes extra carry weight.\n \n
+		</text>
+	</string>
+
+	<string id="military_proto_exo_outfit_name">
+		<text>SKAT-9 proto-exoskeleton</text>
+	</string>
+	<string id="military_proto_exo_outfit_description">
+		<text>%c[ui_gray_1]This modern military armoured suit is designed for assault operations in anomalous areas. Comprises a PSZ-12p heavy military armoured suit, built-in compensation suit, an anomalous protection bodysuit, mounted exoskeleton. The armour provides excellent protection against bullet and fragmentation damage, without reducing the wearer’s mobility.\n \n
+		</text>
+	</string>
+
+	<string id="monolith_proto_exo_outfit_name">
+		<text>Monolith proto-exoskeleton</text>
+	</string>
+	<string id="monolith_proto_exo_outfit_description">
+		<text>%c[ui_gray_1]An armour made by either Monolithians or an unknown manufacturer. It includes a flak vest of unknown origin and also features unique modifications creating a slight resistance to radiation. System has mounted exoskeleton.\n \n
+		</text>
+	</string>
+
+	<string id="cs_stalker_proto_exo_outfit_name">
+		<text>Clear Sky proto-exoskeleton</text>
+	</string>
+	<string id="cs_stalker_proto_exo_outfit_description">
+		<text>%c[ui_gray_1]A Clear Sky branded sunrise bodysuit. Despite the fact that the body armour is incapable of protecting the wearer from even pistol bullets, the suit enjoys great popularity within Clear Sky members due to its low cost and modification potential. Integrated with an exoskeleton.\n \n
+		</text>
+	</string>
+	
+	<string id="ecolog_proto_exo_outfit_name">
+		<text>Ecologist proto-exoskeleton</text>
+	</string>
+	<string id="ecolog_proto_exo_outfit_description">
+		<text>%c[ui_gray_1]An Ecologist armoured bodysuit, designed for assault and support operations in anomalous areas. Despite the fact that the body armour cannot provide the necessery protection the exo-skeleton offers, the suit has optimized combat performance. The exo-frames are capable of providing mechanical support for carrying heavy loads along with built-in isolating artefact containers, making it a great choice to aid researchers during science trips inside the Zone.\n \n
+		</text>
+	</string>
+	
+	<string id="isg_proto_exo_outfit_name">
+		<text>UNISG STS proto-exoskeleton</text>
+	</string>
+	<string id="isg_proto_exo_outfit_description">
+		<text>%c[ui_gray_1]Outfit of choice for the UNISG forces, fitted with parts from an exoskeleton for additional protection against ballistics. Very similar in its design to STS bodysuits. Designed to sustain durability under various conditions inside the Zone. Due to a special treatment of the fabric, the armour has a strengthened stability during the physical movement of its plates. Comes with built-in body armour and armour attachment modules.
+		</text>
+	</string>
+
+	
+<!-- Exoskeletons -->
+	<string id="exo_outfit_name">
+		<text>Exoskeleton</text>
+	</string>
+	<string id="exo_outfit_description">
+		<text>%c[ui_gray_1]An experimental sample of a military exoskeleton. Was never mass-produced due to extraordinary cost and some design flaws. Despite this, it is in demand due to its ability to take on the weight of all carried equipment, and therefore small batches are made in underground facilities outside Ukraine. Comes with a built-in artefact container.\n \n
+		</text>
+	</string>
+
+	<string id="dolg_exo_outfit_name">
+		<text>Duty exoskeleton</text>
+	</string>
+	<string id="dolg_exo_outfit_description">
+		<text>%c[ui_gray_1]Excellent high-tech armour. Domestically developed by one of the research institutes, specifically for the Duty faction. Equipped with advanced battle features, such as enhanced servos and reinforced steel plates. Painted in Duty’s faction colours.\n \n
+		</text>
+	</string>
+
+	<string id="svoboda_exo_outfit_name">
+		<text>Freedom exoskeleton</text>
+	</string>
+	<string id="svoboda_exo_outfit_description">
+		<text>%c[ui_gray_1]Produced by Freedom’s finest artisans. Experimenting with different modifications, after numerous attempts they managed to create a really successful design. Painted in the colours of the Freedom faction. Comparable with Duty’s exoskeleton to some extent.\n \n
+		</text>
+	</string>
+
+	<string id="merc_exo_outfit_name">
+		<text>Mercenary exoskeleton</text>
+	</string>
+	<string id="merc_exo_outfit_description">
+		<text>%c[ui_gray_1]An experimental sample of a military exoskeleton of western production for equipping mercenaries and other armed groups. Since the focus is on combat usability and resilience, it has low anomaly protection.\n \n
+		</text>
+	</string>
+
+	<string id="monolith_exo_outfit_name">
+		<text>Monolith exoskeleton</text>
+	</string>
+	<string id="monolith_exo_outfit_description">
+		<text>%c[ui_gray_1]High-tech armour, made on the basis of an army exoskeleton. The technologies applied to customise the exo are unknown. In the materials’ composition, from which some parts of the armour are made, were found previously unknown elements and alloys.\n \n
+		</text>
+	</string>
+
+	<string id="bandit_exo_outfit_name">
+		<text>Bandit exoskeleton</text>
+	</string>
+	<string id="bandit_exo_outfit_description">
+		<text>%c[ui_gray_1]Version of a military exoskeleton customised by bandits to attack well-guarded facilities and to plunder well-armed stalkers. Painted in dark colours to reduce visibility.\n \n
+		</text>
+	</string>
+
+	<string id="military_exo_outfit_name">
+		<text>Military exoskeleton</text>
+	</string>
+	<string id="military_exo_outfit_description">
+		<text>%c[ui_gray_1]The official version of a military exoskeleton. Released in limited quantities by special order of the military stalkers. Designed to counter well-armed and equipped hostile groups of individuals in the territory of the Chernobyl Exclusion Zone.\n \n
+		</text>
+	</string>
+
+	<string id="cs_exo_outfit_name">
+		<text>Clear Sky exoskeleton</text>
+	</string>
+	<string id="cs_exo_outfit_description">
+		<text>%c[ui_gray_1]An experimental version of the army exoskeleton assembled in a controlled environment by Clear Sky engineers, offers good anomaly protection, with emphasis put on combat application. It also provides light psychic protection.\n \n
+		</text>
+	</string>
+
+	<string id="ecolog_exo_outfit_name">
+		<text>Scientific exoskeleton</text>
+	</string>
+	<string id="ecolog_exo_outfit_description">
+		<text>%c[ui_gray_1]This exoskeleton model is not designed to conduct active combat operations because of its high visibility. Released in limited edition, special order for scientists. Combat parameters are significantly reduced. There have been attempts to use it in scientific expeditions to protect scientists and to transfer heavy-duty scientific equipment. However, they failed miserably, as the person in such a noticeable suit became the number one target.\n \n
+		</text>
+	</string>
+
+	<string id="renegade_exo_outfit_name">
+		<text>Renegade exoskeleton</text>
+	</string>
+	<string id="renegade_exo_outfit_description">
+		<text>%c[ui_gray_1]One of several exoskeletons of the long-defeated group of the Renegades. Was found by Clear Sky soldiers in the hideouts of the faction in the swamps and, judging by the condition, never used in combat. By design, defensive and combat options, style and colour scheme it’s quite similar to its Bandit counterpart.\n \n
+		</text>
+	</string>
+
+	<string id="isg_exo_outfit_name">
+		<text>UNISG exoskeleton</text>
+	</string>
+	<string id="isg_exo_outfit_description">
+		<text>%c[ui_gray_1]The official version of a UNISG exoskeleton. Released in limited quantities by special order of the UNISG forces. Designed to counter well-armed and equipped hostile groups of individuals in the territory of the Chernobyl Exclusion Zone.\n \n
+		</text>
+	</string>
+	
+	<string id="greh_exo_outfit_name">
+		<text>Sin exoskeleton</text>
+	</string>
+	<string id="greh_exo_outfit_description">
+		<text>%c[ui_gray_1]High-tech armour, made on the basis of an army exoskeleton. The technologies applied to customise the exo are unknown. In the materials’ composition, from which some parts of the armour are made, were found previously unknown elements and alloys.\n \n
+		</text>
+	</string>
+
+
+<!-- Nosorog exskeletal armour -->
+	<string id="dolg_nosorog_outfit_name">
+		<text>Duty "Nosorog" exoskeletal armor</text>
+	</string>
+	<string id="freedom_nosorog_outfit_name">
+		<text>Freedom "Nosorog" exoskeletal armor</text>
+	</string>
+	<string id="merc_nosorog_outfit_name">
+		<text>Mercenary "Nosorog" exoskeletal armor</text>
+	</string>
+	<string id="army_nosorog_outfit_name">
+		<text>Military "Nosorog" exoskeletal armor</text>
+	</string>
+	<string id="monolith_nosorog_outfit_name">
+		<text>Monolith "Nosorog" exoskeletal armor</text>
+	</string>
+	<string id="isg_nosorog_outfit_name">
+		<text>UNISG "Nosorog" exoskeletal armor</text>
+	</string>
+	
+	<string id="nosorog_outfit_description">
+		<text>The heaviest of all armored suits available in the Zone and outside it. Nosorog, also known as the Rhino, was designed for seemingly suicidal operations deep within the Zone. It is used by the most elite extermination squads for hunting down the most deadly mutants, like pseudogiants and chimeras, and for the most dangerous assault operations conducted in far north. In operations like those, it is used by point men carrying heavy weaponry, like the PKM or RG-6; its operators don't have to use any cover for most of the time, as they are able to literally tank any incoming gunfire. Nosorog is pretty much impervious to any physical damage sources other than highly explosive materials, and it's easier to kill the user with sheer force of explosions than to damage the suit itself. Its major weak point is the extremly high vulnerability to chamical fumes and acids, which can damage its mechanisms with ease. It is also made almost entirely out of metal parts, which greatly amplify electrical discharges; strong heat is another great threat - the wearer can be literally cooked inside the armor. Main components of the armor are doubly reinforced TB-1 suit, lead-reinforced mTR-33 "Spartan" ballistic helmet with mounted third generation night vision device, and an integrated exoskeleton.\n \n
+		</text>
+	</string>
+
+
+
+<!-- No group -->
+	<string id="csky_light_novice_outfit_name">
+		<text>CS-1 body armour</text>
+	</string>
+	<string id="csky_light_novice_outfit_description">
+		<text>%c[ui_gray_1]During the finest hour of Clear Sky, this bodysuit served as standard issue for the faction’s light assault troops. This suit is not only capable of stopping lesser bullets, but also provides a fair amount of protection against anomalous exposure.\n \n
+		</text>
+	</string>
+
+	<string id="csky_heavy_outfit_name">
+		<text>CS-3b body armour</text>
+	</string>
+	<string id="csky_heavy_outfit_description">
+		<text>%c[ui_gray_1]Once used as a standard by Clear Sky assault squads, after the faction’s elimination, this armour serves as a reminder that even an excellent protective bodysuit cannot guarantee safety on the wrong side of the perimeter. The armour is capable of stopping a pistol bullet, while the wearer is also reasonably protected from anomalies.\n \n
+		</text>
+	</string>
+
+	<string id="dolg_pantsir_outfit_name">
+		<text>PSZ-7p Pantsir armored suit</text>
+	</string>
+	<string id="dolg_pantsir_outfit_description">
+		<text>%c[ui_gray_1]PSZ-7p Pantsir is an armored suit developed shortly after Duty lost their influence in Yanov station. Forced to fall back and taking numerous casualties, the faction decided to start a research in order to develop an armored suit lighter and cheaper, but still almost as protective as their PSZ-9d suit. The fruit of this project was the Pantsir, which has become the standard issue outfit for Duty's assault squads. It consists of two parts. The main part is the outfit itself - trousers and jacket made from thick fabric and additionally padded, to decrease the froce of strong impacts and prevent the outfit from being torn or cut. The second part is its bulletproof vest, made of several separate armored plates forming a kind of a scale armor, which are able to easily stop lower caliber bullets and grenade shrapnels. The vest is covered with a layer of reinforced fabric, and fits the body surprisingly well, only slightly limiting the wearer's movement. Vest is attached and held together by straps made from a strong, sytnthetic fabric, additionally reinforced with outer layer of hardened leather. The suit can be upgraded in a wide variety of ways by attaching additional armor plates, pockets or containers - all of that thanks to its simple yet solid construction.  The main weakness of this outfit is its vulnerability to acids; the fabric also easily burns, and metal components conduct electricity, posing additional threat to the wearer. Pantsir was designed for use with the mTR-33 "Spartan" ballistic helmet, which greatly fits and improves basic qualities of the suit. \n \n
+		</text>
+	</string>
+	
+	<string id="ghillie_outfit_name">
+		<text>Ghillie suit</text>
+	</string>
+	<string id="ghillie_outfit_description">
+		<text>%c[ui_gray_1]This suit is designed to simulate a ‘heap of foliage.’ Usually this type of suits are worn by snipers and hunters to blend in with the environment and hide themselves from enemies. Ghillie suits are commercially produced, but usually both military personnel and civilians customise and improve them to suit their needs. Despite its high efficiency, it can be very impractical: even in a temperate climate, it becomes hot over time and is very heavy.\n \n
+		</text>
+	</string>
+
+</string_table>
